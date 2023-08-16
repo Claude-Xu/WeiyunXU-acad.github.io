@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Weiyun XU (徐蔚云）"
 description              : "Ph.D. candidate in School of Mechanical Engineering, Shanghai Jiao Tong University. Focusing on the material-process-structure integrated design of mechanical metamaterials."
-repository               : "Claude-Xu/WeiyunXU-acadHome.github.io"
+repository               : "Claude-Xu/WeiyunXU-acad.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  email            : "xuweiyunmachinery@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         :
+  dblp             :
+  orcid            : "https://orcid.org/0000-0003-2546-9916"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
