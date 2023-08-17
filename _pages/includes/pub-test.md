@@ -14,7 +14,7 @@
 - General assembly rules for scalable twist effects.
 - An analytical scaling rule to characterize the twist angle.
 
-- Scalable twist effects realized in various unit-cell geometries and multiple axes both numerically and experimentally. peech has been deployed supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- Scalable twist effects realized in various unit-cell geometries and multiple axes both numerically and experimentally. peech has been deployed su [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)]pports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 
   </div>
   </div>
@@ -29,7 +29,7 @@
 
   - Screw theory to unravel mechanism underlying the unscalable twist effects.
 - General assembly rules for scalable twist effects.
-- An analytical scaling rule to characterize the twist angle.
+- An analytical scaling rule to characterize the twist angle ![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars).
   </div>
   </div>
 
