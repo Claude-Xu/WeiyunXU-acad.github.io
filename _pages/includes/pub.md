@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
+## 🎙 Journal Articles (First Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -13,7 +13,8 @@
 - Screw theory is first utilized to unravel mechanism underlying the unscalable twist effects.
 - We propose general assembly rules for scalable twist effects.
 - An analytical scaling rule to characterize the twist angle is presented.
-- Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally.</div>
+- Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally.
+- </div>
   </div>
 
 
