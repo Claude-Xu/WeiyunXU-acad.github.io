@@ -11,14 +11,9 @@
 **Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - Screw theory is first utilized to unravel mechanism underlying the unscalable twist effects.
-
 - We propose general assembly rules for scalable twist effects.
-
 - An analytical scaling rule to characterize the twist angle is presented.
-
-- Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally.
-
-  </div>
+- Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally.</div>
   </div>
 
 
