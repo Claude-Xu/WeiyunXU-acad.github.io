@@ -14,11 +14,10 @@
 - Screw theory to unravel mechanism underlying the unscalable twist effects.
 - General assembly rules for scalable twist effects.
 - An analytical scaling rule to characterize the twist angle.
-
 - Scalable twist effects realized in various unit-cell geometries and multiple axes both numerically and experimentally. 
 
-  </div>
-  </div>
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
