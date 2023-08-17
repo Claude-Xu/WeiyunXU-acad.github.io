@@ -9,13 +9,13 @@
 [General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579) \\
 **Weiyun Xu**, Liwei Wang, Zhao Liu, Ping Zhu
 
-**Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+**Highlights** 
 
 - Screw theory to unravel mechanism underlying the unscalable twist effects.
 - General assembly rules for scalable twist effects.
 - An analytical scaling rule to characterize the twist angle.
 
-- Scalable twist effects realized in various unit-cell geometries and multiple axes both numerically and experimentally. peech has been deployed su [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)]pports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- Scalable twist effects realized in various unit-cell geometries and multiple axes both numerically and experimentally. 
 
   </div>
   </div>
