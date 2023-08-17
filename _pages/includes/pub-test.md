@@ -14,7 +14,12 @@
 - General assembly rules for scalable twist effects.
 
 - An analytical scaling rule to characterize the twist angle.
+
 - Scalable twist effects realized in various unit-cell geometries and multiple axes both numerically and experimentally.
+
+- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+
+  
   </div>
   </div>
 
