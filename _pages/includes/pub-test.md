@@ -15,6 +15,7 @@
 - An analytical scaling rule to characterize the twist angle.
 
 - Scalable twist effects realized in various unit-cell geometries and multiple axes both numerically and experimentally. peech has been deployed supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+
   </div>
   </div>
 
