@@ -11,16 +11,19 @@
 **Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - Screw theory is first utilized to unravel mechanism underlying the unscalable twist effects.
+
 - We propose general assembly rules for scalable twist effects.
+
 - An analytical scaling rule to characterize the twist angle is presented.
+
 - Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally.
-- </div>
+
+  </div>
   </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
 **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
