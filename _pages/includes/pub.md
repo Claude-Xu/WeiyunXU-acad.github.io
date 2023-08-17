@@ -10,10 +10,10 @@
 
 **Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- Screw theory is first utilized to unravel mechanism underlying the unscalable twist effects.
-- We propose general assembly rules for scalable twist effects.
-- An analytical scaling rule to characterize the twist angle is presented.
-- Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally.</div>
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+  </div>
   </div>
 
 
