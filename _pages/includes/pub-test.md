@@ -50,7 +50,7 @@
 </div>
 </div>
 
-- ``机械工程学报`` 手性力学超材料的非周期性设计与耐撞性研究, **徐蔚云**, 张涵寓, 刘钊, 朱平
+- ``机械工程学报`` 手性力学超材料的非周期性设计与耐撞性研究, **徐蔚云**, 张涵寓, 刘钊, 朱平 //
   ``Journal of Mechanical Engineering`` Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu <span style="color:red">(In Chinese)</span> ![](https://img.shields.io/badge/2023-under%20review-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper4.pdf)
 
 
