@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-##     🎙 Journal Articles (First Author)
+##      Journal Articles (First Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,10 +53,10 @@
 - ``机械工程学报/Journal of Mechanical Engineering`` 手性力学超材料的非周期性设计与耐撞性研究, **徐蔚云**, 张涵寓, 刘钊, 朱平  
   Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu <span style="color:red">(In Chinese)</span> ![](https://img.shields.io/badge/2023-under%20review-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper4.pdf)
 
-##     👄 Conference Proceeding
+##     Conference Proceeding
 - ``CMC 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Physics, Techniques and Applications of Advanced Materials: Proceedings of Chinese Materials Conference 2022-2023, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu ![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) ![](https://img.shields.io/badge/PDF-blue)
 
-##     🎨 Patents
+##     Patents
 - ``发明专利/Chinese Patent`` 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
   Chiral mechanical metamaterial sandwich structures with size-effect-free twist and the applications, **Weiyun Xu**, Ping Zhu, Zhao Liu, Yufeng Li ![](https://img.shields.io/badge/2023-CN115691719A-red)
 - ``发明专利/Chinese Patent`` 可折叠多形态电动车, **徐蔚云**, 朱平, 郭为忠   
@@ -70,7 +70,7 @@
 - ``发明专利/Chinese Patent`` 基于刚度的SFRP疲劳寿命混合快速预测方法, 朱平, 张磊, 刘钊, **徐蔚云**, 宋周洲    
   A Hybrid Stiffness-based Fast Prediction Method for Fatigue Life of SFRP, Ping Zhu, Lei Zhang, Zhao Liu, **Weiyun Xu**, Zhouzhou Song ![](https://img.shields.io/badge/2023-CN116305990A-red)
 
-##     📚 Book and Chapter 
+##     Book and Chapter 
 - ``机械工业出版社/China_Machine_Press`` 先进设计理论与方法, 朱平   
   Advanced design theory and methodology, Ping Zhu <span style="color:red">(In Chinese)</span> **(Chapter 3 and Chapter 7)** ![](https://img.shields.io/badge/2023-ISBN%3A%20978--7--111--71470--5-red)
 

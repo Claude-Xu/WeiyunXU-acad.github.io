@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# &#x1F3C6; Honors and Awards
 - *2016.12* National Inspirational Scholarship
 - *2017.10* National Scholarship (Undergraduate) (Top 1%)
 - *2017.12* Merit Student Award of Shanghai Jiao Tong University 
