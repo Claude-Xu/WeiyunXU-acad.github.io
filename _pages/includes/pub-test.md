@@ -57,18 +57,18 @@
 - ``CMC 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Physics, Techniques and Applications of Advanced Materials: Proceedings of Chinese Materials Conference 2022-2023, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu ![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) ![](https://img.shields.io/badge/PDF-blue)
 
 ##     🎨 Patents
-- 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
-  Chiral mechanical metamaterial sandwich structures with size-effect-free twist and the applications, **Weiyun Xu**, Ping Zhu, Zhao Liu, Yufeng Li <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2023-CN115691719A-red)
-- 可折叠多形态电动车, **徐蔚云**, 朱平, 郭为忠   
-  Foldable multi-form electric vehicle, **Weiyun Xu**, Ping Zhu, Weizhong Guo <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2020-CN109178180B-red)
-- 针对手性力学超材料压缩扭转力学试验的扭转角测量夹具, 刘钊, **徐蔚云**, 朱平   
-  Twist angle measurement fixture for compression-torsional testing of chiral mechanical metamaterial, Zhao Liu, **Weiyun Xu**, Ping Zhu <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2023-CN116026678A-red) 
-- 介观结构优化方法, 朱平, **徐蔚云**, 刘钊, 李钼石   
-  Mesoscopic structural optimization methods, Ping Zhu, **Weiyun Xu**, Zhao Liu, Mushi Li <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2022-CN110362912B-red)
-- 杆结构超材料结构多工况仿真自动化系统及方法, 朱平, **徐蔚云**, 刘钊, 王力为, 张磊   
-  Automatic simulation system and method for strut-based metamaterial under multiple working conditions, Ping Zhu, **Weiyun Xu**, Zhao Liu, Liwei Wang, Lei Zhang <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2022-CN114297877A-red) [![](https://img.shields.io/badge/Link-blue)](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
-- 基于刚度的SFRP疲劳寿命混合快速预测方法, 朱平, 张磊, 刘钊, **徐蔚云**, 宋周洲    
-  A Hybrid Stiffness-based Fast Prediction Method for Fatigue Life of SFRP, Ping Zhu, Lei Zhang, Zhao Liu, **Weiyun Xu**, Zhouzhou Song <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2023-CN116305990A-red) [![](https://img.shields.io/badge/Link-blue)](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
+- ``发明专利`` 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
+  ``Chinese Patent`` Chiral mechanical metamaterial sandwich structures with size-effect-free twist and the applications, **Weiyun Xu**, Ping Zhu, Zhao Liu, Yufeng Li ![](https://img.shields.io/badge/2023-CN115691719A-red)
+- ``发明专利`` 可折叠多形态电动车, **徐蔚云**, 朱平, 郭为忠   
+  ``Chinese Patent`` Foldable multi-form electric vehicle, **Weiyun Xu**, Ping Zhu, Weizhong Guo ![](https://img.shields.io/badge/2020-CN109178180B-red)
+- ``发明专利`` 针对手性力学超材料压缩扭转力学试验的扭转角测量夹具, 刘钊, **徐蔚云**, 朱平   
+  ``Chinese Patent`` Twist angle measurement fixture for compression-torsional testing of chiral mechanical metamaterial, Zhao Liu, **Weiyun Xu**, Ping Zhu ![](https://img.shields.io/badge/2023-CN116026678A-red) 
+- ``发明专利`` 介观结构优化方法, 朱平, **徐蔚云**, 刘钊, 李钼石   
+  ``Chinese Patent`` Mesoscopic structural optimization methods, Ping Zhu, **Weiyun Xu**, Zhao Liu, Mushi Li ![](https://img.shields.io/badge/2022-CN110362912B-red)
+- ``发明专利`` 杆结构超材料结构多工况仿真自动化系统及方法, 朱平, **徐蔚云**, 刘钊, 王力为, 张磊   
+  ``Chinese Patent`` Automatic simulation system and method for strut-based metamaterial under multiple working conditions, Ping Zhu, **Weiyun Xu**, Zhao Liu, Liwei Wang, Lei Zhang ![](https://img.shields.io/badge/2022-CN114297877A-red)
+- ``发明专利`` 基于刚度的SFRP疲劳寿命混合快速预测方法, 朱平, 张磊, 刘钊, **徐蔚云**, 宋周洲    
+  ``Chinese Patent`` A Hybrid Stiffness-based Fast Prediction Method for Fatigue Life of SFRP, Ping Zhu, Lei Zhang, Zhao Liu, **Weiyun Xu**, Zhouzhou Song ![](https://img.shields.io/badge/2023-CN116305990A-red)
 
 ##     📚 Book and Chapter 
 - ``机械工业出版社`` 先进设计理论与方法, 朱平   
