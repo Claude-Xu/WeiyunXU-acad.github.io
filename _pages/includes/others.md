@@ -9,23 +9,12 @@
 &emsp;&emsp;&emsp;Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
-- Languages
-&emsp;&emsp;&emsp;Strong reading, writing, and speaking competencies for English and Mandarin Chinese
-
-- Coding
-&emsp;&emsp;&emsp;Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
-
-- CAD
-&emsp;&emsp;&emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, …
-
-- CAE
-&emsp;&emsp;&emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
-
-- Hardware
-&emsp;&emsp;&emsp;Arduino, STM8/STM32, Raspberry Pi, …
-
-- Manufacturing
-&emsp;&emsp;&emsp;CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
+- ``Languages`` Strong reading, writing, and speaking competencies for English and Mandarin Chinese
+- ``Coding`` Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
+- ``CAD`` Solidworks, Unigraphics NX, AutoCAD, Blender, …
+- ``CAE`` ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
+- ``Hardware`` Arduino, STM8/STM32, Raspberry Pi, …
+- ``Manufacturing`` CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
 
 # 💬 MISCELLANEOUS EXPERIENCE
 - *2018.07 - 2018.08*, **Face Recognition Project Internship**, Honeywell (China) Ltd., Shanghai
