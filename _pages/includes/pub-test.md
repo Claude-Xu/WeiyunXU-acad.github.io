@@ -54,15 +54,13 @@
   ``Journal of Mechanical Engineering`` Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu <span style="color:red">(In Chinese)</span> ![](https://img.shields.io/badge/2023-under%20review-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper4.pdf)
 
 ##     👄 Conference Proceeding
-<div>
 - ``CMC 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Physics, Techniques and Applications of Advanced Materials: Proceedings of Chinese Materials Conference 2022-2023, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu ![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) ![](https://img.shields.io/badge/PDF-blue)
-</div>
 
 ##     🎨 Patents
 - ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
 
 ##     📚 Book and Chapter 
-- ``ISBN: 978-7-111-71470-5`` 先进设计理论与方法, 朱平   
-Advanced design theory and methodology, Ping Zhu  <span style="color:red">(In Chinese)</span> **(Chapter 3 and Chapter 7)** ![](https://img.shields.io/badge/2023-China_Machine_Press-red)
+- ``机械工业出版社`` 先进设计理论与方法, 朱平   
+  ``China_Machine_Press`` Advanced design theory and methodology, Ping Zhu  <span style="color:red">(In Chinese)</span> **(Chapter 3 and Chapter 7)** ![](https://img.shields.io/badge/2023-ISBN%3A%20978--7--111--71470--5-red)
 
 
