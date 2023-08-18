@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579)  ![](https://img.shields.io/badge/PDF-blue) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdf) \\
+[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579)  ![](https://img.shields.io/badge/2023-259%3A%20108579-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdf) \\
 **Weiyun Xu**, Liwei Wang, Zhao Liu, Ping Zhu
 
 **Highlights** 
