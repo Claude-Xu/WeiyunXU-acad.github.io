@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Journal Articles (First Author)
+##     🎙 Journal Articles (First Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,14 +53,14 @@
 - ``机械工程学报`` 手性力学超材料的非周期性设计与耐撞性研究, **徐蔚云**, 张涵寓, 刘钊, 朱平  
   ``Journal of Mechanical Engineering`` Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu <span style="color:red">(In Chinese)</span> ![](https://img.shields.io/badge/2023-under%20review-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper4.pdf)
 
-
-## 👄 Conference Proceeding
+##     👄 Conference Proceeding
 - ``CMC 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Physics, Techniques and Applications of Advanced Materials: Proceedings of Chinese Materials Conference 2022-2023, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu ![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper4.pdf)
 
-## 🎨 Patents
+##     🎨 Patents
 - ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
 
-## 📚 Book and Chapter 
+##     📚 Book and Chapter 
 - ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin and Zhou Zhao
 - `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
 - ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, Tao Qin, Kejun Zhang, Tie-Yan Liu \| [**Project**](https://speechresearch.github.io/uwspeech/)
+
