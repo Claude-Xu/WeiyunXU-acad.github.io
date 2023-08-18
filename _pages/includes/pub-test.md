@@ -37,7 +37,6 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=3.8</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) \\
 **Weiyun Xu**, Zhao Liu, Liwei Wang, Ping Zhu
 
@@ -51,7 +50,7 @@
 </div>
 </div>
 
-- ``Journal of Mechanical Engineering`` [Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness](/images/Paper3.png), **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu
+- ``Journal of Mechanical Engineering`` [Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper1.pdf), **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu
 - ``ACM-MM 2022`` [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech](), Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, **Yi Ren**, [![](https://img.shields.io/github/stars/Rongjiehuang/ProDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/ProDiff)
 - ``ACM-MM 2022`` [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, Jinglin Liu, Zhou Zhao, Baoxing Huai, Zhefeng Wang
 - ``IJCAI 2022`` [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](), Zhenhui Ye, Zhou Zhao, **Yi Ren**, Fei Wu, [![](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social&label=Code+Stars)](https://github.com/yerfor/SyntaSpeech)
