@@ -4,9 +4,9 @@
 
 &ensp;MD-PhD program, **GPA: 3.69**, **Rank: 3/108**
 
-&nbsp; *2014.09 - 2018.06*, Undergraduate, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai
+- *2014.09 - 2018.06*, Undergraduate, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai
 
-- Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
+Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
 - *2021.06 - 2021.09*, Alibaba, Hangzhou.
