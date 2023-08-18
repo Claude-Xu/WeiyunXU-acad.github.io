@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579) \\
+[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579) \\ [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdff)
 **Weiyun Xu**, Liwei Wang, Zhao Liu, Ping Zhu
 
 **Highlights** 
@@ -14,7 +14,7 @@
 - We propose a general assembly rule for scalable twist effects.
 - An analytical scaling rule is presented to characterize the twist angle.
 - Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally. 
- [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdff)
+[![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdff)
 </div>
 </div>
 
