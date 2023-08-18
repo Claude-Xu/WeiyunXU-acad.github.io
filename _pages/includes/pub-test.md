@@ -37,7 +37,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=3.8</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) ![](https://img.shields.io/badge/2023-30%3A%20103006-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper1.pdf) \\
+[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) ![](https://img.shields.io/badge/2021-30%3A%20103006-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper1.pdf) \\
 **Weiyun Xu**, Zhao Liu, Liwei Wang, Ping Zhu
 
 **Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
