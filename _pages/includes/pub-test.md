@@ -14,7 +14,7 @@
 - We propose a general assembly rule for scalable twist effects.
 - An analytical scaling rule is presented to characterize the twist angle.
 - Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally. 
-
+ [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdff)
 </div>
 </div>
 
