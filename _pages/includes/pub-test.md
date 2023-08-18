@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579) \\ [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdff)
+[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579)  [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdf) \\
 **Weiyun Xu**, Liwei Wang, Zhao Liu, Ping Zhu
 
 **Highlights** 
@@ -14,13 +14,13 @@
 - We propose a general assembly rule for scalable twist effects.
 - An analytical scaling rule is presented to characterize the twist angle.
 - Scalable twist effects can be realized in various unit-cell geometries and multiple axes both numerically and experimentally. 
-[![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper2.pdff)
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) \\
+[Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper3.pdf) \\
 **Weiyun Xu**, Lei Zhang, Boqin Zhang, Hanyu Zhang, Zhao Liu, Ping Zhu
 
 **Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -37,7 +37,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=3.8</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) \\
+[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper1.pdf) \\
 **Weiyun Xu**, Zhao Liu, Liwei Wang, Ping Zhu
 
 **Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
