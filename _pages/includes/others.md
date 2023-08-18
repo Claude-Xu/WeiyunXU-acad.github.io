@@ -1,12 +1,12 @@
 
 # 📖 Educations
-> - *2018.06 - 2024.03 (now)*, Ph.D. Candidate, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai
+- *2018.06 - 2024.03 (now)*, Ph.D. Candidate, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai
 
 &emsp;&emsp;&emsp;MD-PhD program, **GPA: 3.69**, **Rank: 3/108**
 
 
 
-> - *2014.09 - 2018.06*, Undergraduate, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai
+- *2014.09 - 2018.06*, Undergraduate, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai
 
 &emsp;&emsp;&emsp;Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
 
