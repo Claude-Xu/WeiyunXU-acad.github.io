@@ -21,7 +21,7 @@
 - ``Teaching Assistant`` Undergraduate Courses *Fundamentals of Manufacturing Processes* ![](https://img.shields.io/badge/2019--2023-SJTU-red)
 - ``Teaching Assistant`` Undergraduate Courses *Open Source and Modeling* ![](https://img.shields.io/badge/2021--2022-SJTU-red)
 
-# 💬 MISCELLANEOUS EXPERIENCE
+# 💬 Miscellaneous Experience
 
 - *2018.07 - 2018.08*, **Face Recognition Project Internship**, Honeywell (China) Ltd., Shanghai
 - *2019.05 - 2020.07*, **President of Graduate Union**, Shanghai Jiao Tong University, Shanghai
