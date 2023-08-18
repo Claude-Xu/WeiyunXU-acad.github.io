@@ -59,8 +59,14 @@
 ##     🎨 Patents
 - 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
   Chiral mechanical metamaterial sandwich structures with size-effect-free twist and the applications, **Weiyun Xu**, Ping Zhu, Zhao Liu, Yufeng Li <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2023-CN115691719A-red)
-- 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
-  Chiral mechanical metamaterial sandwich structures with size-effect-free twist and the applications, **Weiyun Xu**, Ping Zhu, Zhao Liu, Yufeng Li <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2023-CN115691719A-red)
+- 可折叠多形态电动车, **徐蔚云**, 朱平, 郭为忠   
+  Foldable multi-form electric vehicle, **Weiyun Xu**, Ping Zhu, Weizhong Guo <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2020-CN109178180B-red)
+- 针对手性力学超材料压缩扭转力学试验的扭转角测量夹具, 刘钊, **徐蔚云**, 朱平   
+  Twist angle measurement fixture for compression-torsional testing of chiral mechanical metamaterial, Zhao Liu, **Weiyun Xu**, Ping Zhu <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2023-CN116026678A-red)
+- 介观结构优化方法, 朱平, **徐蔚云**, 刘钊, 李钼石   
+  Mesoscopic structural optimization methods, Ping Zhu, **Weiyun Xu**, Zhao Liu, Mushi Li <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2022-CN110362912B-red)
+- 杆结构超材料结构多工况仿真自动化系统及方法, 朱平, **徐蔚云**, 刘钊, 王力为, 张磊   
+  Automatic simulation system and method for strut-based metamaterial under multiple working conditions, Ping Zhu, **Weiyun Xu**, Zhao Liu, Liwei Wang, Lei Zhang <span style="color:red">(Chinese Patent)</span> ![](https://img.shields.io/badge/2022-CN114297877A-red)
 
 ##     📚 Book and Chapter 
 - ``机械工业出版社`` 先进设计理论与方法, 朱平   
