@@ -3,7 +3,6 @@
 ## 🎙 Journal Articles (First Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
-
 <div class='paper-box-text' markdown="1">
 
 [General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579) \\
@@ -19,38 +18,37 @@
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+
+[Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) \\
+**Weiyun Xu**, Lei Zhang, Boqin Zhang, Hanyu Zhang, Zhao Liu, Ping Zhu
 
 **Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-  - Screw theory to unravel mechanism underlying the unscalable twist effects.
-- General assembly rules for scalable twist effects.
-- An analytical scaling rule to characterize the twist angle ![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars).
-  </div>
-  </div>
+- Chiral mechanical metamaterial designs utilizing intercellular contact.
+- [SLM](https://www.sciencedirect.com/topics/engineering/selective-laser-melting) AlSi10Mg sandwich structures with contact-aided twist behavior.
+- A multi-segment response to the uniaxial crush.
+- Various deformation patterns and failure modes validated by experiments and FEA.
+- The sandwich core is light-weight and high in [SEA](https://www.sciencedirect.com/topics/engineering/specific-energy-absorption).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=3.8</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
+[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) \\
+**Weiyun Xu**, Zhao Liu, Liwei Wang, Ping Zhu
 
-- Ma
-  </div>
-  </div>
+**Highlights** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
+- A novel 3D chiral metamaterial that enables modular design.
+- The deformation mechanisms are studied under both normal and shear loadings.
+- Highly tunable tension-twisting properties are demonstrated in both analytical and simulation results.
+- Better chiral effects over benchmark materials for various size scaling factors.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
-
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 </div>
 </div>
 
