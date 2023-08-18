@@ -4,5 +4,5 @@ Prior to this, I graduated from School of Mechanical Engineering, Shanghai Jiao 
 
 My current research interest mainly includes the programable property regulation and design of  **mechanical metamaterials (lattice, cellular, and porous structures, etc.)**, data-driven **structure-property relationship investigation and optimization**, and **functional metamaterials** considering composites or multi-material **additive manufacturing** with corresponding applications.
 
-<span style="color:red">I am going to get my doctoral degree in March, 2024 as planned. And I am now looking for a postdoctoral fellow position that corelates to the field of **metamaterials**, **additive manufacturing**, and **data-driven engineering**. Please feel free to contact me if you are interested. My email is [xuweiyunmachinery@sjtu.edu.cn](mailto:xuweiyunmachinery@sjtu.edu.cn).</span>
+<span style="color:red">I am going to get my doctoral degree in March, 2024 as planned. And I am now looking for a postdoctoral fellow position that corelates to the fields of **metamaterials**, **additive manufacturing**, and **data-driven engineering**. Please feel free to contact me if you are interested.</span> [![](https://img.shields.io/badge/email-red)](mailto:xuweiyunmachinery@sjtu.edu.cn)
 
