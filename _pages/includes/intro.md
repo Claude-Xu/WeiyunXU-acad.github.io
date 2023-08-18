@@ -6,3 +6,4 @@ My current research interest mainly includes the programable property regulation
 
 <span style="color:red">I am going to get my doctoral degree in March, 2024 as planned. And I am now looking for a postdoctoral fellow position that corelates to the fields of **metamaterials**, **additive manufacturing**, and **data-driven engineering**. Please feel free to contact me if you are interested.</span> [![](https://img.shields.io/badge/email-red)](mailto:xuweiyunmachinery@sjtu.edu.cn)
 
+This is my CV [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/CV.pdf)
