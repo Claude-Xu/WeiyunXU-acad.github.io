@@ -2,7 +2,7 @@
 # 📝 Publications 
 ##      Journal Articles (First Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper2.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -19,7 +19,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper3.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.3</div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) ![](https://img.shields.io/badge/2023-260%3A%20108636-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper3.pdf) \\
@@ -36,7 +36,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=3.8</div><img src='images/Paper1.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=3.8</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) ![](https://img.shields.io/badge/2021-30%3A%20103006-red) [![](https://img.shields.io/badge/PDF-blue)](https://claude-xu.github.io/WeiyunXU-acad.github.io/file/paper1.pdf) \\
