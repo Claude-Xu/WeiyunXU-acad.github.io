@@ -5,9 +5,9 @@ I am a Ph.D. student in Mechanical Engineering at [Shanghai Jiao Tong University
 Prior to this, I graduated from School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU) with a bachelor's degree. I was selected by both Tsien Hsue-shen Program (10% Pass) and Zhiyuan Honor Program (5% Pass) of SJTU, where I was well trained in linear algebra, solid mechanics, and mechanical principles. I won National Scholarship (Top 1%) in 2017 and 2019, Merit Student Award of SJTU in 2017, and Inspirational Individual Award of SJTU in 2020.
 
 My current research interest mainly includes:  
-the property regulation and design of programable **mechanical metamaterials (lattice, cellular, and porous structures, etc.)**  
-computational method of **structure-property relationship investigation and optimization**  
-**functional metamaterials** considering composites or multi-material **additive manufacturing** with corresponding applications.
+- the property regulation and design of programable **mechanical metamaterials (lattice, cellular, and porous structures, etc.)**  
+- computational method of **structure-property relationship investigation and optimization**  
+- **functional metamaterials** considering composites or multi-material **additive manufacturing** with corresponding applications.
 
-<span style="color:red">I am going to get my doctoral degree in March, 2024 as planned. And I am now looking for a postdoctoral fellow position related to the fields of **metamaterials**, **additive manufacturing**, and **data-driven engineering**. I envision a future where I can contribute new technologies and ideas to improve human society, life, production and communication. Please feel free to contact me if you are interested.</span> [![](https://img.shields.io/badge/email-red)](mailto:xuweiyunmachinery@sjtu.edu.cn)
+<span style="color:red">I am going to get my doctoral degree in March, 2024 as planned. And I am now looking for a postdoctoral fellow position related to the fields of **metamaterials**, **advanced fabrication**, and **data-driven engineering**. I envision a future where I can contribute new technologies and ideas to improve human society, life, production and communication. Please feel free to contact me if you are interested.</span> [![](https://img.shields.io/badge/email-red)](mailto:xuweiyunmachinery@sjtu.edu.cn)
 

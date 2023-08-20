@@ -9,11 +9,11 @@
 &emsp;&emsp;&emsp;Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
-- `` Languages `` Strong reading, writing, and speaking competencies for English and Mandarin Chinese
+- ``&nbsp;Languages&nbsp;`` Strong reading, writing, and speaking competencies for English and Mandarin Chinese
 - ``Coding`` Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
-- ``    CAD    `` Solidworks, Unigraphics NX, AutoCAD, Blender, …
-- ``CAE`` ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
-- ``Hardware`` Arduino, STM8/STM32, Raspberry Pi, …
+- ``&nbsp;&nbsp;CAD&nbsp;&nbsp;`` Solidworks, Unigraphics NX, AutoCAD, Blender, …
+- ``&nbsp;&nbsp;CAE&nbsp;&nbsp;`` ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
+- ``&nbsp;&nbsp;Hardware&nbsp;&nbsp;`` Arduino, STM8/STM32, Raspberry Pi, …
 - ``Manufacturing`` CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
 
 # ✒ Teaching
