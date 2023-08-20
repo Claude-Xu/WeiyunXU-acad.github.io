@@ -9,12 +9,12 @@
 &emsp;&emsp;&emsp;Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
-- &emsp;``Languages`` Strong reading, writing, and speaking competencies for English and Mandarin Chinese
-- &ensp;``Programing`` Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
-- &ensp;``CAD Skills`` Solidworks, Unigraphics NX, AutoCAD, Blender, …
-- &ensp;``CAE Skills`` ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
-- &emsp;``Hardwares`` Arduino, STM8/STM32, Raspberry Pi, …
-- ``Fabrication`` CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
+- &emsp;``Languages`` &emsp;Strong reading, writing, and speaking competencies for English and Mandarin Chinese
+- &ensp;``Programing``&emsp; Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
+- &ensp;``CAD Skills`` &emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, …
+- &ensp;``CAE Skills`` &emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
+- &ensp;``Hardwares`` &emsp;Arduino, STM8/STM32, Raspberry Pi, …
+- ``Fabrication`` &emsp;CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
 
 # ✒ Teaching
 
@@ -33,11 +33,12 @@
       Project Name
     </div>
     <img src='images/Paper1.png' alt="sym" width="100%">
+  </div>
+  
+  <div class='paper-box-image'>
     <div class="badge">
-      Project Name
+      Project Name2
     </div>
-    <img src='images/Paper1.png' alt="sym" width="100%">
+    <img src='images/Paper2.png' alt="sym" width="100%">
   </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Project Name</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
-<img src='./images/diffsinger.png' style='width: 6em;'> <img src='./images/fs2.png' style='width: 6em;'> <img src='./images/diffsinger.png' style='width: 6em;'>
