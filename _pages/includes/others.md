@@ -9,11 +9,11 @@
 &emsp;&emsp;&emsp;Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
-- ``  Languages  `` Strong reading, writing, and speaking competencies for English and Mandarin Chinese
-- ``      Coding      `` Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
-- ``          CAD          `` Solidworks, Unigraphics NX, AutoCAD, Blender, …
-- ``          CAE          `` ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
-- ``     Hardware     `` Arduino, STM8/STM32, Raspberry Pi, …
+- &ensp;``Languages`` Strong reading, writing, and speaking competencies for English and Mandarin Chinese
+- &emsp;``Coding`` Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
+- &emsp;&emsp;``CAD`` Solidworks, Unigraphics NX, AutoCAD, Blender, …
+- &emsp;&emsp;&emsp;``CAE`` ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
+- &emsp;``Hardware`` Arduino, STM8/STM32, Raspberry Pi, …
 - ``Manufacturing`` CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
 
 # ✒ Teaching
@@ -27,6 +27,6 @@
 - *2019.05 - 2020.07*, **President of Graduate Union**, Shanghai Jiao Tong University, Shanghai
 
 # 🛠️ Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project Name</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
-
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Project Name</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Project Name</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
 <img src='./images/diffsinger.png' style='width: 6em;'> <img src='./images/fs2.png' style='width: 6em;'> <img src='./images/diffsinger.png' style='width: 6em;'>

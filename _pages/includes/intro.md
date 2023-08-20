@@ -1,5 +1,5 @@
-# Be Enthusiastic, Optimistic, Diligent, and Dream Bigger
-<img src='./images/SJTU.png' style='width: 6em;'> [![](https://img.shields.io/badge/View_my_CV-Updated_2023_08-red)](./file/CV.pdf)   
+# <img src='./images/SJTU.png' style='width: 6em;'> Be Enthusiastic, Optimistic, Diligent, and Dream Bigger [![](https://img.shields.io/badge/View_my_CV-Updated_2023_08-red)](./file/CV.pdf)
+
 I am a Ph.D. student in Mechanical Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now studying at [State Key Laboratory of Mechanical System and Vibration](https://msv.sjtu.edu.cn/) and [National Engineering Research Center of Automotive Power and Intelligent Control](https://me.sjtu.edu.cn/zdsys/2463.html) of [School of Mechanical Engineering](https://me.sjtu.edu.cn/), advised by [Ping Zhu (朱平)](https://me.sjtu.edu.cn/teacher_directory1/zhuping.html). 
 
 Prior to this, I graduated from School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU) with a bachelor's degree. I was selected by both Tsien Hsue-shen Program (10% Pass) and Zhiyuan Honor Program (5% Pass) of SJTU, where I was well trained in linear algebra, solid mechanics, and mechanical principles. I won National Scholarship (Top 1%) in 2017 and 2019, Merit Student Award of SJTU in 2017, and Inspirational Individual Award of SJTU in 2020.
