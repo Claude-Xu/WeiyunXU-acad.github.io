@@ -25,3 +25,6 @@
 
 - *2018.07 - 2018.08*, **Face Recognition Project Internship**, Honeywell (China) Ltd., Shanghai
 - *2019.05 - 2020.07*, **President of Graduate Union**, Shanghai Jiao Tong University, Shanghai
+
+# 🛠️ Projects
+<img src='./images/diffsinger.png' style='width: 6em;'> <img src='./images/fs2.png' style='width: 6em;'> <img src='./images/diffsinger.png' style='width: 6em;'>
