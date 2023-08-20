@@ -1,4 +1,4 @@
-# <img src='./images/SJTU.png' style='width: 6em;'> Be Enthusiastic, Optimistic, and Diligent. Then Dream Bigger. &emsp;&emsp;&emsp;&emsp;[![](https://img.shields.io/badge/View_my_CV-Updated_2023_08-red)](./file/CV.pdf)
+# <img src='./images/SJTU.png' style='width: 6em;'> Be Enthusiastic, Optimistic, and Diligent. Then Dream Bigger. &emsp;&emsp;&emsp;&ensp;[![](https://img.shields.io/badge/View_my_CV-Updated_2023_08-red)](./file/CV.pdf)
 
 I am a Ph.D. student in Mechanical Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now studying at [State Key Laboratory of Mechanical System and Vibration](https://msv.sjtu.edu.cn/) and [National Engineering Research Center of Automotive Power and Intelligent Control](https://me.sjtu.edu.cn/zdsys/2463.html) of [School of Mechanical Engineering](https://me.sjtu.edu.cn/), advised by [Ping Zhu (朱平)](https://me.sjtu.edu.cn/teacher_directory1/zhuping.html). 
 

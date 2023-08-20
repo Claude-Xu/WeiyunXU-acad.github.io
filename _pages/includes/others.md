@@ -13,7 +13,7 @@
 - &ensp;``Programing``&emsp; Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
 - &ensp;``CAD Skills`` &emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, …
 - &ensp;``CAE Skills`` &emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
-- &ensp;``Hardwares`` &emsp;Arduino, STM8/STM32, Raspberry Pi, …
+- &emsp;``Hardwares`` &emsp;Arduino, STM8/STM32, Raspberry Pi, …
 - ``Fabrication`` &emsp;CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
 
 # ✒ Teaching
@@ -40,5 +40,12 @@
       Project Name2
     </div>
     <img src='images/Paper2.png' alt="sym" width="100%">
+  </div>
+  
+  <div class='paper-box-image'>
+    <div class="badge">
+      Project Name2
+    </div>
+    <img src='images/Paper3.png' alt="sym" width="100%">
   </div>
 </div>
