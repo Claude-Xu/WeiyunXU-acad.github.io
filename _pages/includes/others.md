@@ -30,18 +30,18 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">
-      Project Name
+      [![](https://img.shields.io/badge/View_my_CV-Updated_2023_08-red)](./file/CV.pdf)
     </div>
     <img src='images/Paper1.png' alt="sym" width="100%">
   </div>
-  
   <div class='paper-box-image'>
     <div class="badge">
       Project Name2
     </div>
-    [<img src='images/Paper2.png' alt="sym" width="100%">](./file/CV.pdf)
+    <img src='images/Paper2.png' alt="sym" width="100%">
   </div>
-  
+
+
   <div class='paper-box-image'>
     <div class="badge">
       Project Name2
