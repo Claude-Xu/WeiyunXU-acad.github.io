@@ -39,7 +39,7 @@
     <div class="badge">
       Project Name2
     </div>
-    <img src='images/Paper2.png' alt="sym" width="100%">
+    [<img src='images/Paper2.png' alt="sym" width="100%">](./file/CV.pdf)
   </div>
   
   <div class='paper-box-image'>
