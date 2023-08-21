@@ -1,9 +1,6 @@
-
 # 📖 Educations
 - *2018.06 - 2024.03 (now)*, Ph.D. Candidate, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai  
 &emsp;&emsp;&emsp;MD-PhD program, **GPA: 3.69**, **Rank: 3/108**
-
-
 
 - *2014.09 - 2018.06*, Undergraduate, School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai  
 &emsp;&emsp;&emsp;Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
@@ -25,28 +22,3 @@
 
 - *2018.07 - 2018.08*, **Face Recognition Project Internship**, Honeywell (China) Ltd., Shanghai
 - *2019.05 - 2020.07*, **President of Graduate Union**, Shanghai Jiao Tong University, Shanghai
-
-# 🛠️ Projects
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">
-      [Project Name2](./file/CV.pdf)
-    </div>
-    <img src='images/Paper1.png' alt="sym" width="100%">
-  </div>
-  <div class='paper-box-image'>
-    <div class="badge">
-      Project Name2
-    </div>
-    <img ![src='images/Paper2.png'](./file/CV.pdf) alt="sym" width="100%">
-  </div>
-
-
-
-  <div class='paper-box-image'>
-    <div class="badge">
-      Project Name2
-    </div>
-    <img src='images/Paper3.png' alt="sym" width="100%">
-  </div>
-</div>
