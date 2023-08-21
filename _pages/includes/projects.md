@@ -11,14 +11,14 @@
     <div class="badge">
       SLM 316L metamaterial crystals
     </div>
-    <img src='images/Metamaterial.png' alt="sym" width="100%">
+    <img src='images/crashbox.png' alt="sym" width="100%">
   </div>
 
   <div class='paper-box-image'>
     <div class="badge">
       CFRP crash barrier
     </div>
-    <img src='images/crashbox.png' alt="sym" width="100%">
+    <img src='images/Metamaterial.png' alt="sym" width="100%">
   </div>
   
   <div class='paper-box-image'>
