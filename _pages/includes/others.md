@@ -6,11 +6,11 @@
 &emsp;&emsp;&emsp;Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
-- &emsp;``Languages`` &emsp;Strong reading, writing, and speaking competencies for English and Mandarin Chinese
-- &ensp;``Programing``&emsp; Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
-- &ensp;``CAD Skills`` &emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, …
-- &ensp;``CAE Skills`` &emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
-- &emsp;``Hardwares`` &emsp;Arduino, STM8/STM32, Raspberry Pi, …
+- ``Languages`` &emsp;&emsp;Strong reading, writing, and speaking competencies for English and Mandarin Chinese
+- ``Programing``&ensp;&emsp; Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
+- ``CAD Skills`` &ensp;&emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, …
+- ``CAE Skills`` &ensp;&emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
+- ``Hardwares`` &emsp;&emsp;Arduino, STM8/STM32, Raspberry Pi, …
 - ``Fabrication`` &emsp;CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
 
 # ✒ Teaching
