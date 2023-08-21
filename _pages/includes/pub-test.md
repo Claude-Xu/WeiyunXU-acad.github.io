@@ -54,7 +54,7 @@
 
 - ``机械工程学报/Journal of Mechanical Engineering`` 手性力学超材料的非周期性设计与耐撞性研究, **徐蔚云**, 张涵寓, 刘钊, 朱平  
   Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu <span style="color:red">(In Chinese)</span>   
-  ![](https://img.shields.io/badge/2023-under%20review-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-under%20review-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf)
 
 ##     Conference Proceeding
 - ``CMC 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Physics, Techniques and Applications of Advanced Materials: Proceedings of Chinese Materials Conference 2022-2023, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu   
@@ -63,19 +63,19 @@
 ##     Patents
 - ``发明专利/Chinese Patent`` 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
   Chiral mechanical metamaterial sandwich structures with size-effect-free twist and the applications, **Weiyun Xu**, Ping Zhu, Zhao Liu, Yufeng Li   
-  ![](https://img.shields.io/badge/2023-CN115691719A-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent1.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-CN115691719A-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent1.png)
 - ``发明专利/Chinese Patent`` 可折叠多形态电动车, **徐蔚云**, 朱平, 郭为忠   
   Foldable multi-form electric vehicle, **Weiyun Xu**, Ping Zhu, Weizhong Guo   
-  ![](https://img.shields.io/badge/2020-CN109178180B-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent2.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2020-CN109178180B-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent2.png)
 - ``发明专利/Chinese Patent`` 针对手性力学超材料压缩扭转力学试验的扭转角测量夹具, 刘钊, **徐蔚云**, 朱平   
   Twist angle measurement fixture for compression-torsional testing of chiral mechanical metamaterial, Zhao Liu, **Weiyun Xu**, Ping Zhu   
-  ![](https://img.shields.io/badge/2023-CN116026678A-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent3.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-CN116026678A-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent3.png)
 - ``发明专利/Chinese Patent`` 介观结构优化方法, 朱平, **徐蔚云**, 刘钊, 李钼石   
   Mesoscopic structural optimization methods, Ping Zhu, **Weiyun Xu**, Zhao Liu, Mushi Li   
   ![](https://img.shields.io/badge/2022-CN110362912B-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent4.png)
 - ``发明专利/Chinese Patent`` 杆结构超材料结构多工况仿真自动化系统及方法, 朱平, **徐蔚云**, 刘钊, 王力为, 张磊   
   Automatic simulation system and method for strut-based metamaterial under multiple working conditions, Ping Zhu, **Weiyun Xu**, Zhao Liu, Liwei Wang, Lei Zhang   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2022-CN114297877A-red)  [![](https://img.shields.io/badge/Picture-blue)](./images/Patent5.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2022-CN114297877A-red)  [![](https://img.shields.io/badge/Picture-blue)](./images/Patent5.png)
 - ``发明专利/Chinese Patent`` 基于刚度的SFRP疲劳寿命混合快速预测方法, 朱平, 张磊, 刘钊, **徐蔚云**, 宋周洲    
   A Hybrid Stiffness-based Fast Prediction Method for Fatigue Life of SFRP, Ping Zhu, Lei Zhang, Zhao Liu, **Weiyun Xu**, Zhouzhou Song   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-CN116305990A-red)  [![](https://img.shields.io/badge/Picture-blue)](./images/Patent6.png)
@@ -83,5 +83,5 @@
 ##     Book and Chapter 
 - ``机械工业出版社/China_Machine_Press`` 先进设计理论与方法, 朱平   
   Advanced design theory and methodology, Ping Zhu <span style="color:red">(In Chinese)</span> **(Chapter 3 and Chapter 7)**   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-ISBN%3A%20978--7--111--71470--5-red) [![](https://img.shields.io/badge/Picture-blue)](./images/book.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-ISBN%3A%20978--7--111--71470--5-red) [![](https://img.shields.io/badge/Picture-blue)](./images/book.png)
 
