@@ -58,7 +58,7 @@
 
 ##     Conference Proceeding
 - ``CMC 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Physics, Techniques and Applications of Advanced Materials: Proceedings of Chinese Materials Conference 2022-2023, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu   
-![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper5.pdf)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper5.pdf)
 
 ##     Patents
 - ``发明专利/Chinese Patent`` 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
@@ -72,7 +72,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-CN116026678A-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent3.png)
 - ``发明专利/Chinese Patent`` 介观结构优化方法, 朱平, **徐蔚云**, 刘钊, 李钼石   
   Mesoscopic structural optimization methods, Ping Zhu, **Weiyun Xu**, Zhao Liu, Mushi Li   
-  ![](https://img.shields.io/badge/2022-CN110362912B-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent4.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2022-CN110362912B-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent4.png)
 - ``发明专利/Chinese Patent`` 杆结构超材料结构多工况仿真自动化系统及方法, 朱平, **徐蔚云**, 刘钊, 王力为, 张磊   
   Automatic simulation system and method for strut-based metamaterial under multiple working conditions, Ping Zhu, **Weiyun Xu**, Zhao Liu, Liwei Wang, Lei Zhang   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2022-CN114297877A-red)  [![](https://img.shields.io/badge/Picture-blue)](./images/Patent5.png)
