@@ -39,7 +39,7 @@
     <div class="badge">
       3D orthogonal weaving CFRP
     </div>
-    <img src='images/P5.png' alt="sym" width="100%">
+    <img src='images/3DOWC.png' alt="sym" width="100%">
   </div>
   
   <div class='paper-box-image'>
