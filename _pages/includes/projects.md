@@ -6,7 +6,7 @@
     </div>
     <img src='images/printer.png' alt="sym" width="100%">
   </div>
-  
+
   <div class='paper-box-image'>
     <div class="badge">
       SLM 316L metamaterial crystals
@@ -20,25 +20,39 @@
     </div>
     <img src='images/crashbox.png' alt="sym" width="100%">
   </div>
-  
+
   <div class='paper-box-image'>
     <div class="badge">
       Scalable twist mechanical metamaterial
     </div>
     <img src='images/CMM.png' alt="sym" width="100%">
   </div>
-  
+
   <div class='paper-box-image'>
     <div class="badge">
       High strain rate system
     </div>
     <img src='images/Highstrainrate.png' alt="sym" width="100%">
   </div>
+
+  <div class='paper-box-image'>
+    <div class="badge">
+      3D orthogonal weaving CFRP
+    </div>
+    <img src='images/P5.png' alt="sym" width="100%">
+  </div>
   
   <div class='paper-box-image'>
     <div class="badge">
-      DIY adjustable drive simulator
+      Smart crab 
     </div>
-    <img src='images/P5.png' alt="sym" width="100%">
+    <img src='images/P7.png' alt="sym" width="100%">
+  </div>
+  
+  <div class='paper-box-image'>
+    <div class="badge">
+      Inverter design of EV car 
+    </div>
+    <img src='images/P6.png' alt="sym" width="100%">
   </div>
 </div>
