@@ -44,15 +44,15 @@
   
   <div class='paper-box-image'>
     <div class="badge">
-      Smart crab 
+      Inverter design of EV car 
     </div>
-    <img src='images/P7.png' alt="sym" width="100%">
+    <img src='images/P6.png' alt="sym" width="100%">
   </div>
   
   <div class='paper-box-image'>
     <div class="badge">
-      Inverter design of EV car 
+       Smart crab
     </div>
-    <img src='images/P6.png' alt="sym" width="100%">
+    <img src='images/Crab.png' alt="sym" width="100%">
   </div>
 </div>
