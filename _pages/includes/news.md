@@ -1,5 +1,5 @@
 # 📻 News
-- *2023.09*: 🎉 As a doctoral graduate, I have won the National Scholarship! National Scholarship is the highest honor given to college students in Chinese universities, which I have been awarded once during my undergraduate (2017) and master's degrees (2019), respectively.
+- *2023.09*: 🎉 As a doctoral graduate, I have won the National Scholarship! National Scholarship is the highest honor given to college students in Chinese universities, which I have been awarded once during my undergraduate (2017) and master's degrees (2019), respectively. [![](https://img.shields.io/badge/Photo-red)](./images/NEWS.png)
 - *2023.07*: 🎉 I attended Chinese Materials Conference 2022-2023  (CMC 2022-2023) and gave an oral presentation about the design of chiral mechanical metamaterials. [![](https://img.shields.io/badge/Photo-red)](./images/CMC.png)
 - *2023.07*: 🎉 A paper was accepted by International Journal of Mechanical Sciences (IJMS). [![](https://img.shields.io/badge/Link-red)](https://doi.org/10.1016/j.ijmecsci.2023.108636)
 - *2023.06*: 🎉 A paper was accepted by International Journal of Mechanical Sciences (IJMS). [![](https://img.shields.io/badge/Link-red)](https://doi.org/10.1016/j.ijmecsci.2023.1085796)
