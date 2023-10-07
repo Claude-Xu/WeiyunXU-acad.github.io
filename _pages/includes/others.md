@@ -17,6 +17,7 @@
 
 - ``Teaching Assistant`` Undergraduate Courses *Fundamentals of Manufacturing Processes* ![](https://img.shields.io/badge/2019--2023-SJTU-red)
 - ``Teaching Assistant`` Undergraduate Courses *Open Source and Modeling* ![](https://img.shields.io/badge/2021--2022-SJTU-red)
+- ``Teaching Assistant`` Undergraduate Courses *The Way To Success*  ![](https://img.shields.io/badge/2015--2016-SJTU-red) [![](https://img.shields.io/badge/Picture-blue)](./images/TA1.png)
 
 # 💬 Miscellaneous Experience
 
