@@ -1,4 +1,4 @@
-# <img src='./images/SJTU.png' style='width: 6em;'> Be Enthusiastic, Optimistic, and Diligent. Then Dream Bigger. &emsp;&emsp;&emsp;[![](https://img.shields.io/badge/View_my_CV-Updated_2023_08-red)](./file/CV.pdf)
+# <img src='./images/SJTU.png' style='width: 6em;'> Be Enthusiastic, Optimistic, and Diligent. Then Dream Bigger. &emsp;&emsp;&emsp;[![](https://img.shields.io/badge/View_my_CV-Updated_2023_11-red)](./file/CV.pdf)
 
 I am a Ph.D. student majored in Mechanical Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now studying at [State Key Laboratory of Mechanical System and Vibration](https://msv.sjtu.edu.cn/) and [National Engineering Research Center of Automotive Power and Intelligent Control](https://me.sjtu.edu.cn/zdsys/2463.html) of [School of Mechanical Engineering](https://me.sjtu.edu.cn/), advised by [Ping Zhu (朱平)](https://me.sjtu.edu.cn/teacher_directory1/zhuping.html). 
 
@@ -9,5 +9,5 @@ My current research interest mainly includes:
 - computational method of **structure-property relationship investigation and optimization**  
 - **functional metamaterials** considering composites or multi-material **additive manufacturing** with corresponding applications.
 
-<span style="color:red">I am going to get my doctoral degree in March, 2024 as planned. And I am now looking for a postdoctoral fellow position related to the fields of **metamaterials**, **advanced fabrication**, and **data-driven engineering**. I envision a future where I can contribute new technologies and ideas to improve human society, life, production and communication. Please feel free to contact me if you are interested.</span> [![](https://img.shields.io/badge/email-red)](mailto:xuweiyunmachinery@sjtu.edu.cn)
+<span style="color:red">I am going to get my doctoral degree in June, 2024 as planned. And I am now looking for a postdoctoral fellow position related to the fields of **metamaterials**, **advanced fabrication**, and **data-driven engineering**. I envision a future where I can contribute new technologies and ideas to improve human society, life, production and communication. Please feel free to contact me if you are interested.</span> [![](https://img.shields.io/badge/email-red)](mailto:xuweiyunmachinery@sjtu.edu.cn)
 
