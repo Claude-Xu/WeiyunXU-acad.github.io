@@ -6,14 +6,14 @@
     </div>
     <img src='images/PACE.png' alt="sym" width="100%">
   </div>
-  
+
   <div class='paper-box-image'>
     <div class="badge">
       Structure Optimization and Additive Manufacturing
     </div>
     <img src='images/AM.png' alt="sym" width="100%">
   </div>
-  
+
   <div class='paper-box-image'>
     <div class="badge">
       DIY Voron 0.1 FEM printer
@@ -44,9 +44,9 @@
 
   <div class='paper-box-image'>
     <div class="badge">
-      High strain rate system
+      Plate-lattice Metamaterials
     </div>
-    <img src='images/Highstrainrate.png' alt="sym" width="100%">
+    <img src='images/plate-lattice.png' alt="sym" width="100%">
   </div>
 
   <div class='paper-box-image'>
@@ -61,6 +61,20 @@
       Inverter design of EV car 
     </div>
     <img src='images/P6.png' alt="sym" width="100%">
+  </div>
+  
+  <div class='paper-box-image'>
+    <div class="badge">
+      FEA 
+    </div>
+    <img src='images/lattice.png' alt="sym" width="100%">
+  </div>
+  
+  <div class='paper-box-image'>
+    <div class="badge">
+      Origami Design 
+    </div>
+    <img src='images/origami.png' alt="sym" width="100%">
   </div>
 
   <div class='paper-box-image'>
