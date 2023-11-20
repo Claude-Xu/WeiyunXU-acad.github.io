@@ -59,12 +59,12 @@
 - ``Composites Part B-Engineering``  A systematic design method of metal 3D-printed chiral mechanical metamaterials considering crush responses, **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-under%20review-red)
 
-##     Conference Proceeding
+##     Conference Proceedings
 - ``CMC 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Physics, Techniques and Applications of Advanced Materials: Proceedings of Chinese Materials Conference 2022-2023, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper5.pdf)
 
 - ``APS March Meeting 2024`` GNN-based inverse design of three-dimensional aperiodic metamaterials enabling programmable shapes, **Weiyun Xu**, Wenjie Wang, Ping Zhu   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&ensp;&emsp;&ensp;![](https://img.shields.io/badge/2024-Submitted-red) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&ensp;![](https://img.shields.io/badge/2024_03-Minneapolis%2C%20USA-red) 
 
 ##     Patents
 - ``发明专利/Chinese Patent`` 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
