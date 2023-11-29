@@ -60,7 +60,7 @@
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-under%20review-red)
 
 ##     Conference Proceedings
-- ``CMC 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Physics, Techniques and Applications of Advanced Materials: Proceedings of Chinese Materials Conference 2022-2023, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu   
+- ``Chinese Materials Conference 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Journal of Physics: Conference Series, 2639: 012029, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper5.pdf)
 
 - ``APS March Meeting 2024`` GNN-based inverse design of three-dimensional aperiodic metamaterials enabling programmable shapes, **Weiyun Xu**, Wenjie Wang, Ping Zhu   
