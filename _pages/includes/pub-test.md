@@ -52,18 +52,18 @@
 </div>
 </div>
 
-- ``机械工程学报/Journal of Mechanical Engineering`` 手性力学超材料的非周期性设计与耐撞性研究, **徐蔚云**, 张涵寓, 刘钊, 朱平  
-  Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu <span style="color:red">(In Chinese)</span>   
+- **徐蔚云**, 张涵寓, 刘钊, 朱平. 手性力学超材料的非周期性设计与耐撞性研究. 机械工程学报  
+  **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu. Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness. Journal of Mechanical Engineering (2023) <span style="color:red">(In Chinese)</span>   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-1st%20revision-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf)
   
-- ``Composites Part B-Engineering``  A systematic design method of metal 3D-printed chiral mechanical metamaterials considering crush responses, **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu  
+- **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu. A flexible design framework for lattice-based chiral mechanical metamaterials considering energy absorption. *Compos. Pt. B-Eng.* (2023)  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-under%20review-red)
 
 ##     Conference Proceedings
-- ``Chinese Materials Conference 2022-2023`` On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method//Journal of Physics: Conference Series, 2639: 012029, **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu   
+- **Weiyun Xu**, Hanyu Zhang, Zhao Liu, and Ping Zhu. On the crashworthiness of aperiodic chiral mechanical metamaterials: design and modeling method. *J. Phys.: Conf. Ser.* **2639** 012029 (2023)  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](https://img.shields.io/badge/2023_07-Shenzhen%2C%20China-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper5.pdf)
 
-- ``APS March Meeting 2024`` GNN-based inverse design of three-dimensional aperiodic metamaterials enabling programmable shapes, **Weiyun Xu**, Wenjie Wang, Ping Zhu   
+- **Weiyun Xu**, Wenjie Wang, Ping Zhu. GNN-based inverse design of three-dimensional aperiodic metamaterials enabling programmable shapes.  *APS March Meeting 2024*  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&ensp;![](https://img.shields.io/badge/2024_03-Minneapolis%2C%20USA-red) 
 
 ##     Patents
