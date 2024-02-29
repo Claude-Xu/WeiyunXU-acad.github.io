@@ -9,3 +9,6 @@
 - *2020.07*  INSPIRING SJTU 2020 [![](https://img.shields.io/badge/Picture-blue)](./images/inspiring.png)
 - *2020.07*  Excellence Teaching Assistant Award of Shanghai Jiao Tong University 
 - *2023.09*  National Scholarship (Top 1%)
+- *2024.01*  Shanghai PhD Outstanding Graduate Award
+- *2024.02*  APS DMP Ovshinsky Travel Award
+- *2024.02*  APS FGSA Graduate Research Excellence Travel Award

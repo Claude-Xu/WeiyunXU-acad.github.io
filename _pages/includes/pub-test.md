@@ -54,9 +54,9 @@
 
 - **徐蔚云**, 张涵寓, 刘钊, 朱平. 手性力学超材料的非周期性设计与耐撞性研究. 机械工程学报  
   **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu. Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness. *Journal of Mechanical Engineering* (2023) <span style="color:red">(In Chinese)</span>   
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-1st%20revision-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf)
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-Accept-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf)
   
-- **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu. A flexible design framework for lattice-based chiral mechanical metamaterials considering energy absorption. *Compos. Pt. B-Eng.* (2023)  
+- **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu. A flexible design framework for lattice-based chiral mechanical metamaterials considering energy absorption. *Thin-Walled Structures* (2024)  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-under%20review-red)
 
 ##     Conference Proceedings
@@ -88,6 +88,6 @@
 
 ##     Book and Chapter 
 - ``机械工业出版社/China_Machine_Press`` 先进设计理论与方法, 朱平   
-  Advanced design theory and methodology, Ping Zhu <span style="color:red">(In Chinese)</span> **(Chapter 3 and Chapter 7)**   
+  Advanced design theory and methodology, Ping Zhu <span style="color:red">(In Chinese)</span> **(Responsible for Chapter 3 and 7)**   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-ISBN%3A%20978--7--111--71470--5-red) [![](https://img.shields.io/badge/Picture-blue)](./images/book.png)
 
