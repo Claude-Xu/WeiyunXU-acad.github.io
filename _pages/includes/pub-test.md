@@ -83,10 +83,10 @@
 ##     Patents
 - ``Chinese Patent`` 非周期性手性力学超材料实现方法, 张涵寓, **徐蔚云**, 刘钊, 朱平  
   Implementation method for aperiodic chiral mechanical metamaterial,Hanyu Zhang, **Weiyun Xu**, Zhao Liu, Ping Zhu  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024-202410393312.7-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent7.png)
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024-202410393312.7-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent7.png)
   
 - ``Chinese Patent`` 无扭转尺寸效应的手性力学超材料夹芯结构及其应用, **徐蔚云**, 朱平, 刘钊, 李雨峰   
-  Chiral mechanical metamaterial sandwich structures with size-effect-free twist and the applications, **Weiyun Xu**, Ping Zhu, Zhao Liu, Yufeng Li   
+  Chiral mechanical metamaterial sandwich structures with size-effect-free twist and its applications, **Weiyun Xu**, Ping Zhu, Zhao Liu, Yufeng Li   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-CN115691719A-red) [![](https://img.shields.io/badge/Picture-blue)](./images/Patent1.png)
   
 - ``Chinese Patent`` 可折叠多形态电动车, **徐蔚云**, 朱平, 郭为忠   
