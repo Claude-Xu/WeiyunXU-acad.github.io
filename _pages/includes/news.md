@@ -1,4 +1,5 @@
 # 📻 News
+- *2024.07*: 🎉 I am recognized as a Class D municipal high-level talent of Ganzhou, Jiangxi Province! 
 - *2024.06*: 🎉 I defended my thesis and obtained a doctoral degree! [![](https://img.shields.io/badge/Photo-red)](./images/PhD1.png) [![](https://img.shields.io/badge/Photo-red)](./images/PhD2.png)
 - *2024.02*: 🎉 I have been selected for an APS FGSA Graduate Research Excellence Travel Award!
 - *2024.02*: 🎉 I have been selected for an APS DMP Ovshinsky Travel Award!

@@ -12,3 +12,4 @@
 - *2024.01*  Shanghai PhD Outstanding Graduate Award
 - *2024.02*  APS DMP Ovshinsky Travel Award
 - *2024.02*  APS FGSA Graduate Research Excellence Travel Award
+- *2024.07*  Class D Municipal High-level Talent of Ganzhou, Jiangxi Province
