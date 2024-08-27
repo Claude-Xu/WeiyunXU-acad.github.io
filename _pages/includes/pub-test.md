@@ -4,7 +4,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Thin-Walled Structures, IF=5.7</div><img src='images/Paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108)  ![](https://img.shields.io/badge/2024-203%3A%112108-red) ![](https://img.shields.io/badge/2024-203%3A%112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
+[A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108)  ![](https://img.shields.io/badge/2023-259%3A%20108579-red) ![](https://img.shields.io/badge/2024-203%3A%112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
 **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu
 
 
@@ -54,7 +54,6 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=3.7</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) ![](https://img.shields.io/badge/2021-30%3A%20103006-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper1.pdf) \\
 **Weiyun Xu**, Zhao Liu, Liwei Wang, Ping Zhu
 
