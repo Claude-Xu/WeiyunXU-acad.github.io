@@ -4,7 +4,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Thin-Walled Structures, IF=5.7</div><img src='images/Paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108) ![](https://img.shields.io/badge/2024-203%3A112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
+[A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108) ![](https://img.shields.io/badge/2024-203%3A%20112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
 **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu
 
 
