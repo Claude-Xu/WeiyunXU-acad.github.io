@@ -4,8 +4,11 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Thin-Walled Structures, IF=5.7</div><img src='images/Paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108)  ![](https://img.shields.io/badge/2024-203%3A%112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
+[A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108) ![](https://img.shields.io/badge/2024-203%3A%112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
 **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu
+
+
+
 **Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:9yKSN-GCB0IC'></span></strong>
 
 - Flexible framework for chiral mechanical metamaterial with various configurations.
@@ -21,6 +24,8 @@
 <div class='paper-box-text' markdown="1">
 [General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579)  ![](https://img.shields.io/badge/2023-259%3A%20108579-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper2.pdf) \\
 **Weiyun Xu**, Liwei Wang, Zhao Liu, Ping Zhu
+
+
 **Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:qjMakFHDy7sC'></span></strong>
 
 - Screw theory is first utilized to unravel mechanism underlying the unscalable twist effects.
@@ -33,7 +38,6 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.1</div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) ![](https://img.shields.io/badge/2023-260%3A%20108636-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper3.pdf) \\
 **Weiyun Xu**, Lei Zhang, Boqin Zhang, Hanyu Zhang, Zhao Liu, Ping Zhu
 
