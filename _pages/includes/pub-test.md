@@ -8,7 +8,7 @@
 [A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108)  ![](https://img.shields.io/badge/2024-203%3A%112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
 **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu
 
-**Highlights** 
+**Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:9yKSN-GCB0IC'></span></strong>
 
 - Flexible framework for chiral mechanical metamaterial with various configurations.
 - An integration of joint enhancement design, bio-inspired helical design, and gradient design.
