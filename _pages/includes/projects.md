@@ -62,14 +62,14 @@
     </div>
     <img src='images/P6.png' alt="sym" width="100%">
   </div>
-  
+
   <div class='paper-box-image'>
     <div class="badge">
       FEA 
     </div>
     <img src='images/lattice.png' alt="sym" width="100%">
   </div>
-  
+
   <div class='paper-box-image'>
     <div class="badge">
       Origami Design 
@@ -79,7 +79,7 @@
 
   <div class='paper-box-image'>
     <div class="badge">
-       Smart crab
+       TPMS Metamaterials
     </div>
     <img src='images/Crab.png' alt="sym" width="100%">
   </div>
