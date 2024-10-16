@@ -81,11 +81,11 @@
 
 - **徐蔚云**. 三维手性力学超材料缓冲吸能机理及其在新能源重卡车架的应用研究. 中国汽车工程学会第二届博士生学术论坛, 北京, 2024年6月15-16日. (口头报告)  
   **Weiyun Xu**. Energy absorption mechanism of three-dimensional chiral mechanical metamaterials and their application in the frame of electric heavy-duty trucks. *The $2^nd$ Doctoral Academic Forum of the China Society of Automotive Engineers* <span style="color:red">(In Chinese)</span>   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024_06-Beijing%2C%20China-red) 
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024_06-Beijing%2C%20China-red) 
 
 - **徐蔚云**. 增材制造镁合金的高温氧化处理. 2024年中国生物材料学会医用金属材料分会年会, 威海, 2024年10月11-13日. (口头报告)  
-  **Weiyun Xu**. High temperature oxidation treatment of magnesium alloys in additive manufacturing. *2024 CSBM Annual Symposium* <span style="color:red">(In Chinese)</span>   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024_10-Weihai%2C%20China-red) 
+  **Weiyun Xu**. High temperature oxidation treatment of magnesium alloys in additive manufacturing. *2024 Chinese Society for Biomaterials (CSBM) Annual Symposium* <span style="color:red">(In Chinese)</span>   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024_10-Weihai%2C%20China-red) 
 
 ##     Patents
 - ``Chinese Patent`` 非周期性手性力学超材料实现方法, 张涵寓, **徐蔚云**, 刘钊, 朱平  
