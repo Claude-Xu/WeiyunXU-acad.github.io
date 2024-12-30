@@ -87,6 +87,10 @@
   **Weiyun Xu**. High temperature oxidation treatment of magnesium alloys in additive manufacturing. *2024 Chinese Society for Biomaterials (CSBM) Annual Symposium* <span style="color:red">(In Chinese)</span>   
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024_10-Weihai%2C%20China-red) 
 
+- **徐蔚云**, 徐皓璟，庞华泺，刘金戈，温鹏. 3D打印层厚调控生物可降解WE43镁合金多孔结构的耐腐蚀性和力学性能. 2024第二届生物材料与医疗器械赣江学术论坛, 赣州, 2024年11月22-25日. (口头报告)  
+  **Weiyun Xu**, Haojing Xu, Hualuo Pang, Jinge Liu, Peng Wen. Corrosion resistance and mechanical properties of biodegradable WE43 magnesium alloy porous structure controlled by 3D printing layer thickness. *The $2^{nd}$ Ganjiang Academic Forum on Biomaterials and Medical Devices* <span style="color:red">(In Chinese)</span>   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024_11-Ganzhou%2C%20China-red) 
+
 ##     Patents
 - ``Chinese Patent`` 非周期性手性力学超材料实现方法, 张涵寓, **徐蔚云**, 刘钊, 朱平  
   Implementation method for aperiodic chiral mechanical metamaterial,Hanyu Zhang, **Weiyun Xu**, Zhao Liu, Ping Zhu  
@@ -110,7 +114,7 @@
   
 - ``Chinese Patent`` 杆结构超材料结构多工况仿真自动化系统及方法, 朱平, **徐蔚云**, 刘钊, 王力为, 张磊   
   Automatic simulation system and method for strut-based metamaterial under multiple working conditions, Ping Zhu, **Weiyun Xu**, Zhao Liu, Liwei Wang, Lei Zhang   
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2022-CN114297877A-red)  [![](https://img.shields.io/badge/Picture-blue)](./images/Patent5.png)
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2022-CN114297877B-red)  [![](https://img.shields.io/badge/Picture-blue)](./images/Patent5.png)
   
 - ``Chinese Patent`` 基于刚度的SFRP疲劳寿命混合快速预测方法, 朱平, 张磊, 刘钊, **徐蔚云**, 宋周洲    
   A Hybrid Stiffness-based Fast Prediction Method for Fatigue Life of SFRP, Ping Zhu, Lei Zhang, Zhao Liu, **Weiyun Xu**, Zhouzhou Song   
