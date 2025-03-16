@@ -1,4 +1,5 @@
 # 📻 News
+- *2025.03*: 🎉🎉 My dissertation of ** Energy-absorbing Mechanism and Design Method of Three-dimensional Chiral Mechanical Metamaterials** has been awarded as an **Excellent PhD Dissertation** of School of Mechanical Engineering, SJTU!! [![](https://img.shields.io/badge/Photo-red)](./images/EPhDD.png)
 - *2024.12*: 🎉🎉 I am recognized as a **Shuimu Tsinghua Scholar** of Tsinghua University!! 
 - *2024.09*: 🎉🎉 Congrats to my doctoral supervisor, Prof. Ping Zhu, and vice-advisor, Prof. Zhao Liu, for ranking **2023 World Top 2%-Cited Scientists** in the Engineering sub-field! It is an honor that I am able to contribute to our team. Great teamwork! [![](https://img.shields.io/badge/Link-red)](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
 - *2024.07*: 🎉 I am recognized as a **Class D municipal high-level talent** of Ganzhou, Jiangxi Province! 

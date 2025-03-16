@@ -14,3 +14,4 @@
 - *2024.02*  APS FGSA Graduate Research Excellence Travel Award
 - *2024.07*  Class D Municipal High-level Talent of Ganzhou, Jiangxi Province
 - *2024.12*  Shuimu Tsinghua Scholar, Tsinghua University
+- *2025.03*  Excellent PhD Dissertation, School of Mechanical Engineering, Shanghai Jiao Tong University
