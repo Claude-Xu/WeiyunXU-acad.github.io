@@ -1,4 +1,4 @@
-# <img src='./images/SJTU.png' style='width: 6em;'><img src='./images/illinois.png' style='width: 6em;'><img src='./images/THU.png' style='width: 6em;'> Enthusiastic, Optimistic, Diligent, and Dream Big. 
+# <img src='./images/SJTU.png' style='width: 6em;'><img src='./images/THU.png' style='width: 6em;'><img src='./images/Illinois.png' style='width: 6em;'> Enthusiastic, Optimistic, Diligent, and Dream Big. 
 [![](https://img.shields.io/badge/View_my_CV-Updated_2025_03-red)](./file/CV.pdf)
 
 I am currently a postdoctoral fellow at *MISSION*, Zhang's Research Lab at the University of Illinois Urbana-Champaign. Prior to this, I was a research assistant at [Department of Mechanical Engineering, Tsinghua University](https://me.tsinghua.edu.cn/en/) after I got my Ph.D. in Mechanical Engineering from [School of Mechanical Engineering, Shanghai Jiao Tong University](https://me.sjtu.edu.cn/en/) in June, 2024.
