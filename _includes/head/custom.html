@@ -23,8 +23,9 @@
 <style>
   .wx-carousel{position:relative;margin:1.2rem 0 2rem;border-radius:12px;overflow:hidden}
   .wx-carousel__track{display:flex;transition:transform .5s ease;will-change:transform}
+  .wx-carousel__viewport{aspect-ratio: 4 / 3;}
   .wx-carousel__slide{min-width:100%;margin:0}
-  .wx-carousel__slide img{width:100%;height:320px;object-fit:cover;display:block}
+  .wx-carousel__slide img{width:100%;height:100%;object-fit:cover;display:block}
   @media (max-width: 600px){.wx-carousel__slide img{height:220px}}
 
   .wx-carousel__btn{position:absolute;top:50%;transform:translateY(-50%);
