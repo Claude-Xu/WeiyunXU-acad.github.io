@@ -6,9 +6,9 @@ I am currently a postdoctoral fellow at [*MISSION*, Zhang's Research Lab](https:
 I was supervised by [Prof. Ping Zhu](https://me.sjtu.edu.cn/en/FullTimeTeacher/zhuping.html) during my integrated MSc and PhD program. I was selected by both Tsien Hsue-shen Program (10% Pass) and Zhiyuan Honor Program (5% Pass) of SJTU, and got my bachelor's degree of Mechanical Engineering from SJTU in 2018. I demonstrated consistent academic excellence throughout my undergraduate and graduate studies, evidenced by receiving the National Scholarship (Top 1%) three times (2017, 2019, 2023), alongside the Merit Student Award (2017) and the Inspirational Individual Award (2020) from SJTU.
 
 My current research interests mainly include:  <a href='https://scholar.google.com/citations?user=szGICn8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FClaude-Xu%2FWeiyunXU-acad.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-- **Active metamaterials system** based on programable structure-property relationships (lattice, cellular, and TPMS structures, etc.)  
-- **Computational mechanics, optimization, and design** for  
-- **Functional architected materials** considering composites or multi-material additive manufacturing
+- **Active metamaterials** with programable material-structure-property integration  
+- **Computational mechanics, optimization, and design** for metamaterials  
+- **Smart materials system** with embodied intelligence and multi-physical functionalities
 
-<span style="color:red">I envision a future where I can contribute new technologies and ideas to improve human society, life, production and communication. Should you have any collaborative ideas on **smart materials**, **advanced fabrication**, or **AI for science**, please feel free to contact me!</span> [![](https://img.shields.io/badge/email-red)](mailto:weiyunxu@illinois.edu)
+<span style="color:red">I envision a future where I can contribute new technologies and ideas to improve human society, life, production, and communication. Should you have any collaborative ideas on **smart materials and structures**, **advanced fabrication**, or **computational optimization and design**, please feel free to contact me!</span> [![](https://img.shields.io/badge/email-red)](mailto:weiyunxu@illinois.edu)
 
