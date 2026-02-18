@@ -22,48 +22,97 @@
 (() => {
   document.querySelectorAll('.wx-carousel').forEach((root) => {
     const track = root.querySelector('.wx-carousel__track');
-    const slides = Array.from(track.children);
+    const slides = Array.from(track.children); // 真实 slides
     const dotsWrap = root.querySelector('.wx-carousel__dots');
-    if (!slides.length) return;
+    if (slides.length <= 1) return;
 
-    let i = 0;
+    const AUTOPLAY_MS = 4000;   // ✅ 改这里：自动滚动间隔（毫秒）
+    const TRANSITION_MS = 500;  // ✅ 动画时长（ms），要和CSS里transition一致
+
+    // ---- 1) 无缝循环：复制首尾 ----
+    const firstClone = slides[0].cloneNode(true);
+    const lastClone  = slides[slides.length - 1].cloneNode(true);
+    firstClone.setAttribute('data-clone', '1');
+    lastClone.setAttribute('data-clone', '1');
+
+    track.insertBefore(lastClone, slides[0]);
+    track.appendChild(firstClone);
+
+    const realCount = slides.length;
+    let idx = 1; // 从第1张真实图开始（因为0是lastClone）
     let timer = null;
 
-    // dots
-    slides.forEach((_, idx) => {
+    // ---- 2) dots（只给真实图建点）----
+    dotsWrap.innerHTML = '';
+    for (let k = 0; k < realCount; k++) {
       const b = document.createElement('button');
       b.type = 'button';
       b.className = 'wx-carousel__dot';
-      b.setAttribute('aria-label', `Go to slide ${idx + 1}`);
-      b.addEventListener('click', () => go(idx, true));
+      b.setAttribute('aria-label', `Go to slide ${k + 1}`);
+      b.addEventListener('click', () => goToReal(k, true));
       dotsWrap.appendChild(b);
-    });
+    }
     const dots = Array.from(dotsWrap.children);
 
-    const update = () => {
-      track.style.transform = `translateX(-${i * 100}%)`;
-      dots.forEach((d, idx) => d.classList.toggle('is-active', idx === i));
+    const setTransition = (on) => {
+      track.style.transition = on ? `transform ${TRANSITION_MS}ms ease` : 'none';
     };
 
-    const go = (idx, userAction) => {
-      i = (idx + slides.length) % slides.length;
-      update();
+    const render = () => {
+      track.style.transform = `translateX(-${idx * 100}%)`;
+      const realIdx = ((idx - 1) % realCount + realCount) % realCount; // 映射到0..realCount-1
+      dots.forEach((d, k) => d.classList.toggle('is-active', k === realIdx));
+    };
+
+    const go = (nextIdx, userAction) => {
+      idx = nextIdx;
+      setTransition(true);
+      render();
       if (userAction) restart();
     };
 
-    const start = () => { timer = setInterval(() => go(i + 1, false), 4000); };
+    const goToReal = (realIdx0, userAction) => {
+      // realIdx0: 0..realCount-1
+      go(realIdx0 + 1, userAction);
+    };
+
+    const next = (userAction) => go(idx + 1, userAction);
+    const prev = (userAction) => go(idx - 1, userAction);
+
+    // ---- 3) 关键：动画结束后做“瞬移”以实现无缝循环 ----
+    track.addEventListener('transitionend', () => {
+      // 如果到了“首克隆”（最后一张真实图之后的 clone）
+      if (idx === realCount + 1) {
+        idx = 1;                 // 回到第一张真实图
+        setTransition(false);    // 关闭动画，瞬移
+        render();
+      }
+      // 如果到了“尾克隆”（第一张真实图之前的 clone）
+      if (idx === 0) {
+        idx = realCount;         // 跳到最后一张真实图
+        setTransition(false);
+        render();
+      }
+    });
+
+    // ---- 4) 按钮 ----
+    root.querySelector('.wx-carousel__btn--prev').addEventListener('click', () => prev(true));
+    root.querySelector('.wx-carousel__btn--next').addEventListener('click', () => next(true));
+
+    // ---- 5) 自动播放（循环）----
+    const start = () => { timer = setInterval(() => next(false), AUTOPLAY_MS); };
     const stop = () => { if (timer) clearInterval(timer); timer = null; };
     const restart = () => { stop(); start(); };
 
-    root.querySelector('.wx-carousel__btn--prev').addEventListener('click', () => go(i - 1, true));
-    root.querySelector('.wx-carousel__btn--next').addEventListener('click', () => go(i + 1, true));
-
-    // hover pause (desktop)
+    // 悬停暂停（可选）
     root.addEventListener('mouseenter', stop);
     root.addEventListener('mouseleave', start);
 
-    update();
+    // 初始化
+    setTransition(false);
+    render();
     start();
   });
 })();
 </script>
+
