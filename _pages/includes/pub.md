@@ -4,7 +4,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERNATIONAL JOURNAL OF MACHINE TOOLS & MANUFACTURE, IF=18.8</div><img src='images/Paper_IJMTM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Process-driven microstructure design of 3D-Printed porous magnesium alloy scaffolds with tunable biodegradation kinetics](https://doi.org/10.1016/j.ijmachtools.2025.104362) ![](https://img.shields.io/badge/2024-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper_IJMTM.pdf) \\
+[Process-driven microstructure design of 3D-Printed porous magnesium alloy scaffolds with tunable biodegradation kinetics](https://doi.org/10.1016/j.ijmachtools.2025.104362) ![](https://img.shields.io/badge/2025-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper_IJMTM.pdf) \\
 **Weiyun Xu**, Hualuo Pang, Haojing Xu, Jinge Liu, Yufeng Zheng, Peng Wen
 
 
@@ -22,7 +22,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Thin-Walled Structures, IF=6.6</div><img src='images/Paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108) ![](https://img.shields.io/badge/2024-203%3A%20112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
+[A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108) ![](https://img.shields.io/badge/2024-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
 **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu
 
 
@@ -38,9 +38,9 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.1</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=9.4</div><img src='images/Paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579)  ![](https://img.shields.io/badge/2023-259%3A%20108579-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper2.pdf) \\
+[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579)  ![](https://img.shields.io/badge/2023-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper2.pdf) \\
 **Weiyun Xu**, Liwei Wang, Zhao Liu, Ping Zhu
 
 
@@ -54,9 +54,9 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=7.1</div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=9.4</div><img src='images/Paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) ![](https://img.shields.io/badge/2023-260%3A%20108636-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper3.pdf) \\
+[Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) ![](https://img.shields.io/badge/2023-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper3.pdf) \\
 **Weiyun Xu**, Lei Zhang, Boqin Zhang, Hanyu Zhang, Zhao Liu, Ping Zhu
 
 **Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:2osOgNQ5qMEC'></span></strong>
@@ -70,9 +70,9 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=3.7</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=4.5</div><img src='images/Paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) ![](https://img.shields.io/badge/2021-30%3A%20103006-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper1.pdf) \\
+[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) ![](https://img.shields.io/badge/2021-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper1.pdf) \\
 **Weiyun Xu**, Zhao Liu, Liwei Wang, Ping Zhu
 
 **Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:u-x6o8ySG0sC'></span></strong>
@@ -85,8 +85,8 @@
 </div>
 </div>
 
-- **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu. Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness. *Journal of Mechanical Engineering* (2024) <span style="color:red">(In Chinese)</span>   
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2023-Accept-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper5.pdf)
+- **Weiyun Xu**, Hanyu Zhang, Zhao Liu, Ping Zhu. **Aperiodic design framework of chiral mechanical metamaterials considering crashworthiness**, *Journal of Mechanical Engineering* (2024) <span style="color:red">(In Chinese)</span>   
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://img.shields.io/badge/2024-Accept-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper5.pdf)
   
 
 ##     Conference Proceedings and Presentations
