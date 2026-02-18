@@ -1,8 +1,25 @@
 
 # 📝 Publications 
-##      Journal Articles
+##      Journal Articles (First/Corresponding Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERNATIONAL JOURNAL OF MACHINE TOOLS & MANUFACTURE, IF=18.8</div><img src='images/Paper_IJMTM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science, IF=14.1</div><img src='images/Paper_AS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Highly Efficient Discovery of 3D Mechanical Metamaterials via Monte Carlo Tree Search](https://doi.org/10.1002/advs.202513771) ![](https://img.shields.io/badge/2025-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper_AS.pdf) \\
+Jiamu Liu, Bo Peng, **Weiyun Xu**, Ye Wei, Peng Wen
+
+
+
+**Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:eQOLeE2rZwMC'></span></strong>
+
+- Efficient exploration in $2^{727}$ design space with only 100 initial samples.
+- First integration of MCTS with CNN-FEM for 3D metamaterial inverse design.
+- 30% stiffness and 20% strength enhancement over benchmarks.
+- Diverse sampling and comprehensive mapping confirmed via T-SNE. 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Machine Tools & Manufacture, IF=18.8</div><img src='images/Paper_IJMTM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Process-driven microstructure design of 3D-Printed porous magnesium alloy scaffolds with tunable biodegradation kinetics](https://doi.org/10.1016/j.ijmachtools.2025.104362) ![](https://img.shields.io/badge/2025-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper_IJMTM.pdf) \\
 **Weiyun Xu**, Hualuo Pang, Haojing Xu, Jinge Liu, Yufeng Zheng, Peng Wen
