@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weiyun XU (徐蔚云）"
+title                    : "Weiyun XU (Wei-Yun Xu)"
 description              : "Ph.D. of Mechanical Engineering. Focusing on advanced materials and structures."
 repository               : "Claude-Xu/WeiyunXU-acad.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Weiyun XU (徐蔚云)"
-  avatar           : "images/WeiyunXU_profile.png"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  name             : "Weiyun XU (Wei-Yun Xu)"
+  avatar           : "images/WeiyunXU_profile2.png"
+  bio              : "University of Illinois at Urbana-Champaign"
+  location         : "Urbana, IL 61801, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=szGICn8AAAAJ"
-  email            : "xuweiyunmachinery@sjtu.edu.cn"
+  email            : "weiyunxu@illinois.edu"
   researchgate     : "https://www.researchgate.net/profile/Xu-Weiyun"
   uri              :
   bitbucket        :
