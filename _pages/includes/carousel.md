@@ -28,15 +28,14 @@
     </div>
   </div>
 
-  <button class="wx-carousel__btn wx-carousel__btn--prev" type="button" aria-label="Previous">âš</button>
-  <button class="wx-carousel__btn wx-carousel__btn--next" type="button" aria-label="Next">âş</button>
+  <button class="wx-carousel__btn wx-carousel__btn--prev" type="button" aria-label="Previous">&lsaquo;</button>
+  <button class="wx-carousel__btn wx-carousel__btn--next" type="button" aria-label="Next">&rsaquo;</button>
   <div class="wx-carousel__dots" aria-label="Slide dots"></div>
 </div>
 
 <script>
 (() => {
   document.querySelectorAll('.wx-carousel').forEach((root) => {
-    // ✅ 防止重复初始化（脚本被执行多次时特别关键）
     if (root.dataset.wxCarouselInit === '1') return;
     root.dataset.wxCarouselInit = '1';
 
@@ -47,8 +46,8 @@
     const realSlides = Array.from(track.children);
     if (realSlides.length <= 1) return;
 
-    const AUTOPLAY_MS = 4000;   // ✅ 自动滚动间隔：改这里（毫秒）
-    const TRANSITION_MS = 500;  // ✅ 动画时长（ms）
+    const AUTOPLAY_MS = 7000;
+    const TRANSITION_MS = 500;
 
     // ---- 无缝循环：复制首尾 ----
     const firstClone = realSlides[0].cloneNode(true);
@@ -60,8 +59,8 @@
     track.appendChild(firstClone);
 
     const realCount = realSlides.length;
-    let idx = 1;          // 从第一张真实图开始（0 是 lastClone）
-    let locked = false;   // ✅ 动画锁：防止连点/定时器叠加导致越界
+    let idx = 1;
+    let locked = false;
     let autoplayId = null;
 
     // ---- dots（只针对真实图）----
@@ -89,7 +88,6 @@
       dots.forEach((d, k) => d.classList.toggle('is-active', k === realIdx));
     };
 
-    // ✅ 用 setTimeout 做循环，避免 setInterval 叠加/抢跑
     const stop = () => {
       if (autoplayId) clearTimeout(autoplayId);
       autoplayId = null;
@@ -106,7 +104,7 @@
     const restart = () => schedule();
 
     const go = (nextIdx, userAction) => {
-      if (locked) return;     // ✅ 动画没结束就不允许继续切换
+      if (locked) return;
       locked = true;
 
       idx = nextIdx;
