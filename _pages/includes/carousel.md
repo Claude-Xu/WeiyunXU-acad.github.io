@@ -14,6 +14,12 @@
         <img src="./images/Soft1.png" alt="Highlight 2">
       </figure>
       <figure class="wx-carousel__slide">
+        <img src="./images/Implant.png" alt="Highlight 1">
+      </figure>
+      <figure class="wx-carousel__slide">
+        <img src="./images/Metamaterial.png" alt="Highlight 2">
+      </figure>
+      <figure class="wx-carousel__slide">
         <img src="./images/PhD2.png" alt="Highlight 1">
       </figure>
       <figure class="wx-carousel__slide">
