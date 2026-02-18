@@ -8,22 +8,25 @@
         <img src="./images/LCE1.png" alt="Highlight 2">
       </figure>
       <figure class="wx-carousel__slide">
-        <img src="./images/FEA2.png" alt="Highlight 1">
+        <img src="./images/FEA2.png" alt="Highlight 3">
       </figure>
       <figure class="wx-carousel__slide">
-        <img src="./images/Soft1.png" alt="Highlight 2">
+        <img src="./images/ML.png" alt="Highlight 4">
       </figure>
       <figure class="wx-carousel__slide">
-        <img src="./images/Implant.png" alt="Highlight 1">
+        <img src="./images/Soft1.png" alt="Highlight 5">
       </figure>
       <figure class="wx-carousel__slide">
-        <img src="./images/Metamaterial.png" alt="Highlight 2">
+        <img src="./images/Implant.png" alt="Highlight 6">
       </figure>
       <figure class="wx-carousel__slide">
-        <img src="./images/PhD2.png" alt="Highlight 1">
+        <img src="./images/Metamaterial.png" alt="Highlight 7">
       </figure>
       <figure class="wx-carousel__slide">
-        <img src="./images/PhD1.png" alt="Highlight 2">
+        <img src="./images/PhD2.png" alt="Highlight 8">
+      </figure>
+      <figure class="wx-carousel__slide">
+        <img src="./images/PhD1.png" alt="Highlight 9">
       </figure>
     </div>
   </div>
