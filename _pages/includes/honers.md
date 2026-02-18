@@ -4,7 +4,8 @@
 - *2017.12*  Merit Student Award of Shanghai Jiao Tong University 
 - *2018.06*  Outstanding Graduate Award of Shanghai Jiao Tong University (Undergraduate) 
 - *2018.06*  Excellent Graduation Design Award of School of Mechanical Engineering, Shanghai Jiao Tong University (Top 10) 
-- *2019.08*  $2^{nd}$ Place of ${30}^{th}$ International Design Contest ROBOCON (Held in MIT)
+- *2018.08*  $1^{st}$ Place in Road Test Competition of PACE, General Motors (North America) Ltd.
+- *2019.08*  $2^{nd}$ Place of ${30}^{th}$ International Design Contest ROBOCON, MIT
 - *2019.12*  National Scholarship (Top 1%)
 - *2020.07*  INSPIRING SJTU 2020 [![](https://img.shields.io/badge/Picture-blue)](./images/inspiring.png)
 - *2020.07*  Excellence Teaching Assistant Award of Shanghai Jiao Tong University 
@@ -15,3 +16,4 @@
 - *2024.07*  Class D Municipal High-level Talent of Ganzhou, Jiangxi Province
 - *2024.12*  Shuimu Tsinghua Scholar, Tsinghua University
 - *2025.03*  Excellent PhD Dissertation, School of Mechanical Engineering, Shanghai Jiao Tong University
+- *2025.09*  Scholarship and Teaching for Engineering Postdocs (STEP) Program, GCOE, UIUC
