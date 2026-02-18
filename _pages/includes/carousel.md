@@ -41,7 +41,7 @@
     const dotsWrap = root.querySelector('.wx-carousel__dots');
     if (slides.length <= 1) return;
 
-    const AUTOPLAY_MS = 4000;
+    const AUTOPLAY_MS = 7000;
     const TRANSITION_MS = 500;
     
     const firstClone = slides[0].cloneNode(true);
