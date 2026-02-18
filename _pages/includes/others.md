@@ -8,18 +8,18 @@
 &emsp;&emsp;&emsp;Bachelor of Mechanical Engineering with Zhiyuan Honours, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
-- ``Languages`` &emsp;&emsp;Strong reading, writing, and speaking competencies for English and Mandarin Chinese
-- ``Programing``&ensp;&emsp; Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
-- ``CAD Skills`` &ensp;&emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, ParaView
-- ``CAE Skills`` &ensp;&emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, FEniCSx
-- ``Hardwares`` &emsp;&emsp;Arduino, STM8/STM32, Raspberry Pi
-- ``Fabrication`` &emsp;CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
+- **Language** &emsp;&emsp;Strong reading, writing, and speaking competencies for English and Mandarin Chinese
+- **Programing** &ensp;&emsp; Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
+- **CAD Skills** &ensp;&emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, ParaView
+- **CAE Skills** &ensp;&emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, FEniCSx
+- **Hardwares** &emsp;&emsp;Arduino, STM8/STM32, Raspberry Pi
+- **Fabrication** &emsp;CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
 
-# ✒ Teaching
+# ✒ Teaching Assistant
 
-- ``Teaching Assistant`` Undergraduate Courses *Fundamentals of Manufacturing Processes* ![](https://img.shields.io/badge/2019--2023-SJTU-red)
-- ``Teaching Assistant`` Undergraduate Courses *Open Source and Modeling* ![](https://img.shields.io/badge/2021--2022-SJTU-red)
-- ``Teaching Assistant`` Undergraduate Courses *The Way To Success*  ![](https://img.shields.io/badge/2015--2016-SJTU-red) [![](https://img.shields.io/badge/Picture-blue)](./images/TA1.png)
+- Undergraduate Courses *Fundamentals of Manufacturing Processes* (Spring Semesters, 2021-2022)
+- Undergraduate Courses *Open Source and Modeling* (Fall Semesters, 2019-2023)
+- Undergraduate Courses *The Way To Success*  (Fall 2015) [![](https://img.shields.io/badge/Picture-blue)](./images/TA1.png)
 
 # 💬 Miscellaneous Experience
 
