@@ -1,8 +1,26 @@
 
 # 📝 Publications 
-##      Journal Articles (First Author)
+##      Journal Articles
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Thin-Walled Structures, IF=5.7</div><img src='images/Paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERNATIONAL JOURNAL OF MACHINE TOOLS & MANUFACTURE, IF=18.8</div><img src='images/Paper_IJMTM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Process-driven microstructure design of 3D-Printed porous magnesium alloy scaffolds with tunable biodegradation kinetics](https://doi.org/10.1016/j.ijmachtools.2025.104362) ![](https://img.shields.io/badge/2024-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper_IJMTM.pdf) \\
+**Weiyun Xu**, Hualuo Pang, Haojing Xu, Jinge Liu, Yufeng Zheng, Peng Wen
+
+
+
+**Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:WF5omc3nYNoC'></span></strong>
+
+- Synergetic integration of laser powder bed fusion and high-temperature oxidation.
+- 3D-printed porous magnesium alloy scaffolds with tunable biodegradation rate.
+- Process-driven microstructure design realizing multi-level phase and grain distributions.
+- Comprehensive material characterization and degradation kinetics analysis.
+- Nonlinear degradation profile of porous magnesium scaffolds controlled by layer thickness. 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Thin-Walled Structures, IF=6.6</div><img src='images/Paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108) ![](https://img.shields.io/badge/2024-203%3A%20112108-red) [![](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
 **Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu
