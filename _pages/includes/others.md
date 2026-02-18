@@ -1,6 +1,6 @@
 # 📖 Educations
 - *2018.06 - 2024.06*, Ph.D., School of Mechanical Engineering, Shanghai Jiao Tong University, China  
-&emsp;&emsp;&emsp;Joint M.D.-Ph.D. program, **GPA: 3.69**, **Rank: 3/108**
+&emsp;&emsp;&emsp;Joint M.D.-Ph.D. program, **GPA: 3.69**, **Rank: 3/108**  
 &emsp;&emsp;&emsp;**Thesis** *Energy-absorbing mechanism and design method of three-dimensional chiral mechanical metamaterials*
 
 
