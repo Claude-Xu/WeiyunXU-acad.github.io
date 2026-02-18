@@ -22,11 +22,11 @@
 
 <style>
   .wx-carousel{position:relative;margin:1.2rem 0 2rem;border-radius:12px;overflow:hidden}
-  .wx-carousel__track{display:flex;will-change:transform}
-  .wx-carousel__viewport{aspect-ratio: 5 / 3;}
-  .wx-carousel__slide{min-width:100%;margin:0}
-  .wx-carousel__slide img{width:100%;height:100%;object-fit:cover;display:block}
-  @media (max-width: 600px){.wx-carousel__slide img{height:220px}}
+  .wx-carousel__viewport{ aspect-ratio: 4 / 3; width:100%; overflow:hidden; }
+  .wx-carousel__track{ display:flex; height:100%; will-change:transform; }
+  .wx-carousel__slide{ min-width:100%; height:100%; margin:0; }
+  .wx-carousel__slide img{ width:100%; height:100%; object-fit:cover; display:block; }
+  @media (max-width: 600px){.wx-carousel__viewport{ aspect-ratio: 4 / 3; }}
 
   .wx-carousel__btn{position:absolute;top:50%;transform:translateY(-50%);border:0;background:rgba(0,0,0,.35);color:#fff;width:44px;height:44px;border-radius:999px;cursor:pointer;font-size:30px;font-weight:700;line-height:1;display:flex;align-items:center;justify-content:center;padding:0}
   .wx-carousel__btn--prev{left:10px}
