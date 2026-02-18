@@ -1,16 +1,18 @@
 # 📖 Educations
-- *2018.06 - 2024.06*, Ph.D., School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai  
-&emsp;&emsp;&emsp;MD-PhD program, **GPA: 3.69**, **Rank: 3/108**
+- *2018.06 - 2024.06*, Ph.D., School of Mechanical Engineering, Shanghai Jiao Tong University, China  
+&emsp;&emsp;&emsp;Joint M.D.-Ph.D. program, **GPA: 3.69**, **Rank: 3/108**
+&emsp;&emsp;&emsp;**Thesis** *Energy-absorbing mechanism and design method of three-dimensional chiral mechanical metamaterials*
 
-- *2014.09 - 2018.06*, B.Eng., School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai  
-&emsp;&emsp;&emsp;Bachelor of Mechanical Engineering, **GPA: 3.95**, **Rank: 1/27**
+
+- *2014.09 - 2018.06*, B.Eng., School of Mechanical Engineering, Shanghai Jiao Tong University, China  
+&emsp;&emsp;&emsp;Bachelor of Mechanical Engineering with Zhiyuan Honours, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
 - ``Languages`` &emsp;&emsp;Strong reading, writing, and speaking competencies for English and Mandarin Chinese
 - ``Programing``&ensp;&emsp; Java, Python, C/C++, SQL (Postgres), JavaScript, MATLAB, Latex
-- ``CAD Skills`` &ensp;&emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, …
-- ``CAE Skills`` &ensp;&emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, …
-- ``Hardwares`` &emsp;&emsp;Arduino, STM8/STM32, Raspberry Pi, …
+- ``CAD Skills`` &ensp;&emsp;Solidworks, Unigraphics NX, AutoCAD, Blender, ParaView
+- ``CAE Skills`` &ensp;&emsp;ABAQUS, ANSYS, COMSOL Multiphysics, LS-DYNA, FEniCSx
+- ``Hardwares`` &emsp;&emsp;Arduino, STM8/STM32, Raspberry Pi
 - ``Fabrication`` &emsp;CNC, Casting, Additive Manufacturing (FDM, SLA, SLM, SLS), DIY 3D-Printer
 
 # ✒ Teaching
