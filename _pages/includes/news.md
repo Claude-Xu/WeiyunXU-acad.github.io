@@ -1,3 +1,4 @@
+<span class="anchor" id="-news"></span>
 # 📻 News (Sept.,2024 - Present)
 - *2025.08*: 🎉🎉 Our work on fabrication-property regulation of 3D prinded medical implant has been accepted by **Int. J. Mach. Tools Manuf.**! 
 - *2025.09*: 🎉🎉 I am admitted to the  **Scholarship and Teaching for Engineering Postdocs (STEP) Program** at the University of Illinois Urbana-Champaign! 
