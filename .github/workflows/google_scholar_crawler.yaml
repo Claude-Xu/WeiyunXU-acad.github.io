@@ -5,8 +5,13 @@ on:
  schedule:
   - cron:  '0 8 * * *'
 
+concurrency:
+  group: get-citation-data
+  cancel-in-progress: true
+
 jobs:
   build:
+    timeout-minutes: 20
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
