@@ -11,14 +11,24 @@ concurrency:
 
 jobs:
   build:
-    timeout-minutes: 20
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+        cache-dependency-path: google_scholar_crawler/requirements.txt
     - name: Install Reqs
       run: |
-        sudo apt-get install python3-setuptools
+        sudo apt-get update
+        sudo apt-get install -y python3-setuptools
     - name: Run
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}   # 新增：仓库 Secrets 里配置
+        PUBLICATION_LIMIT: "200"                       # 可按需调大/调小
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
@@ -28,7 +38,5 @@ jobs:
         git config --local user.name "${GITHUB_ACTOR}"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
-        git commit -m "Updated Citation Data"
+        git commit -m "Updated Citation Data" || echo "No changes"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
