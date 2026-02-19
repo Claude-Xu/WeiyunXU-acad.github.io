@@ -1,3 +1,4 @@
+<span class="anchor" id="-projects"></span>
 # 🛠️ Projects
 <div class='paper-box'>
   <div class='paper-box-image'>
