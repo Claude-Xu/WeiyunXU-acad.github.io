@@ -22,3 +22,5 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 {% include_relative includes/projects.md %}
+
+{% include_relative includes/contact.md %}
