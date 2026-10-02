@@ -1,7 +1,3 @@
----
-layout: compress
----
-
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
@@ -18,7 +14,7 @@ layout: compress
       {% include sidebar.html %}
     
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <meta itemprop="headline" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
             {{ content }}

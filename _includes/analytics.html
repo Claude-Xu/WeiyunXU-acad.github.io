@@ -1,13 +1,14 @@
-{% if page.analytics != false %}
+{% assign analytics_id = site.google_analytics_id | default: "" | strip %}
+{% if analytics_id != empty and page.analytics != false %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ analytics_id | url_encode }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', "{{ site.google_analytics_id }}");
+  gtag('config', {{ analytics_id | jsonify }});
 </script>
 
 {% endif %}

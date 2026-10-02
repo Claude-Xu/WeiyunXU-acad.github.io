@@ -9,6 +9,8 @@
 title                    : "Weiyun XU (Wei-Yun Xu)"
 description              : "Ph.D. of Mechanical Engineering. Focusing on advanced materials and structures."
 repository               : "Claude-Xu/WeiyunXU-acad.github.io"
+url                      : "https://claude-xu.github.io"
+baseurl                  : "/WeiyunXU-acad.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +24,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Weiyun XU (Wei-Yun Xu)"
-  avatar           : "images/WeiyunXU_profile2.png"
+  avatar           : "images/WeiyunXU_profile2.webp"
   bio              : "University of Illinois at Urbana-Champaign"
   location         : "Urbana, IL 61801, USA"
   employer         :
@@ -62,6 +64,7 @@ author:
 # Reading Files
 include:
   - .htaccess
+  # Jekyll must enter this directory to read about.md; exclude its fragments below.
   - _pages
   - files
 exclude:
@@ -74,18 +77,26 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
   - Rakefile
+  - _pages/includes
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
   - config
+  - docs
   - gulpfile.js
   - log
   - node_modules
   - package.json
+  - package-lock.json
+  - run_server.sh
+  - scripts
+  - tests
   - tmp
   - vendor
   - google_scholar_crawler
@@ -135,7 +146,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 
 # Plugins
@@ -152,11 +163,3 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development

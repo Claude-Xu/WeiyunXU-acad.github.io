@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "About Me"
-    url: "https://claude-xu.github.io/WeiyunXU-acad.github.io/#about-me"
+    url: "#about-me"
 
   - title: "News"
-    url: "https://claude-xu.github.io/WeiyunXU-acad.github.io/#-news"
+    url: "#-news"
 
   - title: "Publications"
-    url: "https://claude-xu.github.io/WeiyunXU-acad.github.io/#-publications"
+    url: "#-publications"
 
   - title: "Honors and Awards"
-    url: "https://claude-xu.github.io/WeiyunXU-acad.github.io/#-honors-and-awards"
+    url: "#-honors-and-awards"
 
   - title: "Educations"
-    url: "https://claude-xu.github.io/WeiyunXU-acad.github.io/#-educations"
+    url: "#-educations"
 
   - title: "Skills"
-    url: "https://claude-xu.github.io/WeiyunXU-acad.github.io/#-skills"
+    url: "#-skills"
 
   - title: "Miscellaneous Experience"
-    url: "https://claude-xu.github.io/WeiyunXU-acad.github.io/#-miscellaneous-experience"
+    url: "#-miscellaneous-experience"
 
   - title: "Contact"
-    url: "https://claude-xu.github.io/WeiyunXU-acad.github.io/#-contact"
+    url: "#-contact"

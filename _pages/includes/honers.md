@@ -7,7 +7,7 @@
 - *2018.08*  $1^{st}$ Place in Road Test Competition of PACE, General Motors (North America) Ltd.
 - *2019.08*  $2^{nd}$ Place of ${30}^{th}$ International Design Contest ROBOCON, MIT
 - *2019.12*  National Scholarship (Top 1%)
-- *2020.07*  INSPIRING SJTU 2020 [![](https://img.shields.io/badge/Picture-blue)](./images/inspiring.png)
+- *2020.07*  INSPIRING SJTU 2020 [![INSPIRING SJTU recognition photo](https://img.shields.io/badge/Picture-blue)](./images/inspiring.png)
 - *2020.07*  Excellence Teaching Assistant Award of Shanghai Jiao Tong University 
 - *2023.09*  National Scholarship (Top 1%)
 - *2024.01*  Shanghai PhD Outstanding Graduate Award

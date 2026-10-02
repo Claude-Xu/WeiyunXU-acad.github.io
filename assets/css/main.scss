@@ -56,7 +56,9 @@
         width: 100%;
         order: 2;
         img {
+            width: 100%;
             max-width: 400px;
+            height: auto;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -106,4 +108,51 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    max-width: calc(100% - 1rem);
+    overflow-wrap: anywhere;
+}
+
+.paper-box-image > div {
+    position: relative;
+    max-width: 100%;
+}
+
+.page__content {
+    overflow-wrap: break-word;
+}
+
+a:focus-visible,
+button:focus-visible {
+    outline: 3px solid #00369f;
+    outline-offset: 3px;
+}
+
+.greedy-nav button:focus-visible {
+    outline: 3px solid #00369f;
+    outline-offset: 3px;
+}
+
+.scholar-status {
+    display: block;
+    margin-top: .4em;
+    color: #5b6268;
+    font-size: .8em;
+}
+
+#scholar-citation-summary {
+    display: inline-block;
+    padding: .1em .45em;
+    border-radius: 3px;
+    background: #e2f1ff;
+    color: #264766;
+    font-size: .8em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    #main, .masthead, .sidebar, .page__hero {
+        animation: none;
+    }
+    html {
+        scroll-behavior: auto;
+    }
 }

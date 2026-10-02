@@ -19,7 +19,7 @@
 
 - Undergraduate Courses *Fundamentals of Manufacturing Processes* (Spring Semesters, 2021-2022)
 - Undergraduate Courses *Open Source and Modeling* (Fall Semesters, 2019-2023)
-- Undergraduate Courses *The Way To Success*  (Fall 2015) [![](https://img.shields.io/badge/Picture-blue)](./images/TA1.png)
+- Undergraduate Courses *The Way To Success*  (Fall 2015) [![Teaching assistant photo](https://img.shields.io/badge/Picture-blue)](./images/TA1.png)
 
 # 💬 Miscellaneous Experience
 

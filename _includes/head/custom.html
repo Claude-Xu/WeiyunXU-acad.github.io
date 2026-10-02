@@ -1,16 +1,14 @@
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<link rel="manifest" href="images/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
+<link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
 
 <meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
-<meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="assets/css/academicons.css"/>
+<link rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url }}"/>
 
 <script data-goatcounter="https://weiyunxu.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+        async src="https://gc.zgo.at/count.js"></script>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 
@@ -22,7 +20,7 @@
     }
   });
 </script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
 <style>
   .wx-carousel{position:relative;margin:1.2rem 0 2rem;border-radius:12px;overflow:hidden}
@@ -36,9 +34,14 @@
   .wx-carousel__btn--prev{left:10px}
   .wx-carousel__btn--next{right:10px}
 
-  .wx-carousel__dots{position:absolute;left:0;right:0;bottom:10px;display:flex;justify-content:center;gap:8px}
-  .wx-carousel__dot{width:10px;height:10px;border-radius:999px;border:0;background:rgba(255,255,255,.55);cursor:pointer}
-  .wx-carousel__dot.is-active{background:rgba(255,255,255,.95)}
+  .wx-carousel__pause{position:absolute;top:10px;right:10px;border:0;border-radius:6px;padding:6px 10px;min-height:32px;background:rgba(0,0,0,.6);color:#fff;font-size:14px;cursor:pointer}
+  .wx-carousel__dots{position:absolute;left:0;right:0;bottom:6px;display:flex;justify-content:center;gap:2px}
+  .wx-carousel__dot{width:24px;height:24px;padding:0;display:flex;align-items:center;justify-content:center;border:0;background:transparent;cursor:pointer}
+  .wx-carousel__dot:before{content:"";width:10px;height:10px;border-radius:999px;background:rgba(255,255,255,.55)}
+  .wx-carousel__dot.is-active:before{background:rgba(255,255,255,.95)}
+  .wx-carousel button:focus-visible,.greedy-nav button:focus-visible{outline:3px solid #005fcc;outline-offset:2px;box-shadow:0 0 0 5px #fff}
+  .no-js .wx-carousel__btn,.no-js .wx-carousel__pause,.no-js .wx-carousel__dots{display:none}
+  @media (prefers-reduced-motion: reduce){.wx-carousel__track{transition:none!important;will-change:auto}}
 </style>
 
 <!-- end custom head snippets -->

@@ -1,0 +1,42 @@
+name: Check Website
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check carousel, navigation and citation behavior
+        run: |
+          node tests/carousel-behavior.test.cjs
+          node tests/navigation-behavior.test.cjs
+          node tests/scholar-behavior.test.cjs
+      - name: Check crawler data contract
+        working-directory: google_scholar_crawler
+        run: python -m unittest discover -s tests -v
+      - name: Build and check published output
+        env:
+          JEKYLL_ENV: production
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bundle exec jekyll build --strict_front_matter
+          python scripts/check_site.py

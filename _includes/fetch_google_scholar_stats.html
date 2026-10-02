@@ -1,19 +1,87 @@
 <script>
-    $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            // var totalCitation = data['citedby']
-            // document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
-        });
-    })
+(() => {
+  const summary = document.getElementById('scholar-citation-summary');
+  const citations = Array.from(document.querySelectorAll('.show_paper_citations'));
+  if (!summary && citations.length === 0) return;
+
+  const status = document.createElement('span');
+  status.className = 'scholar-status';
+  status.setAttribute('role', 'status');
+  status.textContent = 'Loading citation data…';
+  if (summary) summary.insertAdjacentElement('afterend', status);
+
+  const cdnUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/gs_data.json';
+  const rawUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json';
+  {% if site.google_scholar_stats_use_cdn %}
+  const urls = [cdnUrl, rawUrl];
+  {% else %}
+  const urls = [rawUrl, cdnUrl];
+  {% endif %}
+
+  const readData = async (url) => {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000);
+    try {
+      const response = await fetch(url, {signal: controller.signal});
+      if (!response.ok) throw new Error('Citation request failed');
+      const data = await response.json();
+      if (!data || !data.publications || typeof data.publications !== 'object') {
+        throw new Error('Invalid citation data');
+      }
+      return data;
+    } finally {
+      clearTimeout(timeout);
+    }
+  };
+
+  const updatedDate = (data) => {
+    const value = typeof data.updated === 'string' ? data.updated : '';
+    // The original crawler wrote UTC without an offset and with six microsecond digits.
+    const normalized = value.replace(' ', 'T').replace(/(\.\d{3})\d+/, '$1');
+    return new Date(/(?:Z|[+-]\d{2}:\d{2})$/.test(normalized) ? normalized : normalized + 'Z');
+  };
+
+  const renderData = (data) => {
+    const publications = Array.isArray(data.publications)
+      ? Object.fromEntries(data.publications.filter(p => p && p.author_pub_id).map(p => [p.author_pub_id, p]))
+      : data.publications;
+    const updated = updatedDate(data);
+    const hasDate = Number.isFinite(updated.getTime());
+    const dateLabel = hasDate ? updated.toLocaleDateString('en-US', {year: 'numeric', month: 'short', day: 'numeric'}) : 'unknown';
+    const stale = !hasDate || Date.now() - updated.getTime() > 30 * 24 * 60 * 60 * 1000;
+    status.textContent = hasDate ? `Citations updated ${dateLabel}${stale ? ' (update pending)' : ''}.` : 'Citation update date unavailable.';
+    if (summary) {
+      const total = data.citedby;
+      summary.textContent = Number.isInteger(total) && total >= 0 ? `Total citations: ${total}` : 'Google Scholar';
+    }
+
+    citations.forEach((element) => {
+      const publication = publications[element.getAttribute('data')];
+      const count = publication && (publication.num_citations ?? publication.citedby);
+      const valid = typeof count === 'number' && Number.isInteger(count) && count >= 0;
+      element.textContent = valid ? `Citations: ${count}` : 'Citations unavailable';
+      element.title = valid ? `Google Scholar data updated ${dateLabel}${stale ? '; update pending' : ''}` : 'This paper is not present in the citation data.';
+    });
+  };
+
+  (async () => {
+    let bestData = null;
+    for (const url of urls) {
+      try {
+        const data = await readData(url);
+        const updated = updatedDate(data).getTime();
+        if (!bestData || (Number.isFinite(updated) && (!Number.isFinite(updatedDate(bestData).getTime()) || updated > updatedDate(bestData).getTime()))) {
+          bestData = data;
+          renderData(bestData);
+        }
+        if (Number.isFinite(updated) && Date.now() - updated <= 30 * 24 * 60 * 60 * 1000) break;
+      } catch (_) {
+        // Try the second source; keep missing data visibly distinct from zero.
+      }
+    }
+    if (bestData) return;
+    status.textContent = 'Citation data unavailable. Please check Google Scholar.';
+    citations.forEach(element => { element.textContent = 'Citations unavailable'; });
+  })();
+})();
 </script>

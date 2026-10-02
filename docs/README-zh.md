@@ -38,7 +38,7 @@ AcadHomepage
 1. 配置谷歌学术引用爬虫：
     1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。
     1. 在github本仓库页面的`Settings -> Secrets -> Actions -> New repository secret`中，添加`GOOGLE_SCHOLAR_ID`变量：`name=GOOGLE_SCHOLAR_ID`、`value=SCHOLAR_ID`。
-    1. 在github本仓库页面的`Action`中，点击*"I understand my workflows, go ahead and enable them"*启用workflows by clicking *"。本action将会谷歌学术引用的统计量数据`gs_data.json`到本仓库的`google-scholar-stats`分支中。每次修改main分支的内容会触发该action。本action也会在每天08:00 UTC定时触发。
+    1. 在仓库的 `Actions` 页面点击 *"I understand my workflows, go ahead and enable them"* 启用工作流。`Get Citation Data` 每天 08:00 UTC 定时运行，也可以通过 `Run workflow` 手动启动。成功抓取并通过校验后，才会将引用数据发布到 `google-scholar-stats` 分支。抓取或校验失败时，工作流明确报告失败，并保留此前已发布的数据。修改 main 分支不会自动触发该工作流。
 1. 使用 [favicon-generator](https://redketchup.io/favicon-generator)生成favicon（网页icon文件），并下载所有文件到`REPO/images`。
 1. 修改主页配置文件[_config.yml](_config.yml):
     1. `title`: 主页标题
@@ -55,9 +55,13 @@ AcadHomepage
 
 1. 使用`git clone`将本项目克隆到本地。
 1. 安装Jekyll的构建环境，包括`Ruby`、`RubyGems`、`GCC`和`Make`。可参考[该教程](https://jekyllrb.com/docs/installation/#requirements)。
-1. 运行 `bash run_server.sh` 来启动Jekyll实时重载服务器。
-1. 在浏览器里打开 [http://127.0.0.1:4000](http://127.0.0.1:4000)。如果你修改了网页的源码，服务器会自动重新编译并刷新页面。
+1. 先运行 `bundle install`，再运行 `bash run_server.sh` 来启动Jekyll实时重载服务器。Windows可以直接运行 `bundle exec jekyll serve --livereload`。
+1. 在浏览器里打开 [http://127.0.0.1:4000/WeiyunXU-acad.github.io/](http://127.0.0.1:4000/WeiyunXU-acad.github.io/)。如果你修改了网页的源码，服务器会自动重新编译并刷新页面。
 1. 当你修改完毕你的页面以后, 使用`git`命令，`commit`你的改动并`push`到你的github仓库中。
+
+每次push或pull request都会运行 `Check Website`，检查轮播、导航、引用统计和Jekyll构建输出。本地可运行 `bundle exec jekyll build --strict_front_matter`，再运行 `python scripts/check_site.py`。
+
+修改主题JavaScript后，用pip安装 `rjsmin==1.2.5`，再运行 `python scripts/build_js.py` 更新 `assets/js/main.min.js`。
 
 # Acknowledge
 
