@@ -31,6 +31,11 @@ jobs:
       - name: Install crawler dependencies
         run: python -m pip install -r google_scholar_crawler/requirements.txt
 
+      - name: Check crawler dependency initialization
+        run: |
+          python -m pip check
+          python -c "from scholarly import ProxyGenerator, scholarly; print('Crawler dependencies initialized successfully')"
+
       - name: Fetch and validate fresh citation data
         working-directory: google_scholar_crawler
         env:
