@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weiyun XU (Wei-Yun Xu)"
-description              : "Ph.D. of Mechanical Engineering. Focusing on advanced materials and structures."
+description              : "Postdoctoral researcher at UIUC working on mechanical metamaterials, nonlinear mechanics, topology optimization, data-driven inverse design, and AI-enabled scientific discovery."
 repository               : "Claude-Xu/WeiyunXU-acad.github.io"
 url                      : "https://claude-xu.github.io"
 baseurl                  : "/WeiyunXU-acad.github.io"
@@ -25,7 +25,8 @@ baidu_site_verification  :
 author:
   name             : "Weiyun XU (Wei-Yun Xu)"
   avatar           : "images/WeiyunXU_profile2.webp"
-  bio              : "University of Illinois at Urbana-Champaign"
+  bio              : "Postdoctoral Research Associate, MISSION Lab, UIUC"
+  research_summary : "Mechanical metamaterials, nonlinear mechanics, and computational inverse design."
   location         : "Urbana, IL 61801, USA"
   employer         :
   pubmed           : 

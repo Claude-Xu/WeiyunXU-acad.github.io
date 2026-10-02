@@ -1,11 +1,11 @@
 # 📖 Educations
-- *2018.06 - 2024.06*, Ph.D., School of Mechanical Engineering, Shanghai Jiao Tong University, China  
+- *2018.09 - 2024.06*, Ph.D., School of Mechanical Engineering, Shanghai Jiao Tong University, China<br>
 &emsp;&emsp;&emsp;Integrated MSc/PhD program, **GPA: 3.69**, **Rank: 3/108**  
 &emsp;&emsp;&emsp;**Thesis** *Energy-absorbing mechanism and design method of three-dimensional chiral mechanical metamaterials*
 
 
 - *2014.09 - 2018.06*, B.Eng., School of Mechanical Engineering, Shanghai Jiao Tong University, China  
-&emsp;&emsp;&emsp;Bachelor of Mechanical Engineering with Zhiyuan Honours, **GPA: 3.95**, **Rank: 1/27**
+&emsp;&emsp;&emsp;B.Eng. in Mechanical Engineering with Zhiyuan Honours, **GPA: 3.95**, **Rank: 1/27**
 
 # 💻 Skills
 - **Language** &emsp;&emsp;Strong reading, writing, and speaking competencies for English and Mandarin Chinese

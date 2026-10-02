@@ -1,11 +1,46 @@
 
-# 📝 Publications 
-##      Journal Articles (First/Corresponding Author)
+# 📝 Publications
+
+<p class="publication-note">* Corresponding author; † Equal contribution.</p>
+
+## Preprints / Current Work
+
+<div class="current-work" markdown="1">
+### [Impedance-Guided Programmable Transmission of Localized Deformation in Modular Soft Metamaterials](https://arxiv.org/abs/2607.08966)
+
+**Weiyun Xu**<sup>*</sup>, Daewon Hong, Zhi Zhao, Rahul Dev Kundu, Xiaojia Shelly Zhang<sup>*</sup>
+
+*Preprint, 2026* · [arXiv:2607.08966](https://arxiv.org/abs/2607.08966)
+
+Programmable transmission of localized deformation across modular soft metamaterials, guided by mechanical impedance and interactions between modules.
+</div>
+
+<div class="current-work" markdown="1">
+### [Growth-Inspired Graph Generation and Inverse Design of Mechanical Lattices via Dot Matrices Database Augmentation and GCNN](https://arxiv.org/abs/2609.29024)
+
+**Weiyun Xu**<sup>*</sup>, Jiamu Liu
+
+*Preprint, 2026* · [arXiv:2609.29024](https://arxiv.org/abs/2609.29024)
+
+Growth-inspired graph generation and inverse design of mechanical lattices, supported by dot-matrix database augmentation and graph convolutional neural networks.
+</div>
+
+## Recent Journal Publication
+
+<div class="current-work" markdown="1">
+### [Rare earth redistribution governs competitive surface oxidation and grain refinement equilibrium in magnesium alloys](https://doi.org/10.1016/j.jma.2026.102231)
+
+Hualuo Pang, **Weiyun Xu**, Jinge Liu, Haojing Xu, Zhengguang Wang, Fei Song, Yun Tian, Peng Wen
+
+*Journal of Magnesium and Alloys*, **22**, 102231 (September 2026). [DOI: 10.1016/j.jma.2026.102231](https://doi.org/10.1016/j.jma.2026.102231)
+</div>
+
+## Journal Articles (First/Corresponding Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science, IF=14.1</div><img src="{{ '/images/Paper_AS.webp' | relative_url }}" alt="Research illustration" width="1000" height="545" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 [Highly Efficient Discovery of 3D Mechanical Metamaterials via Monte Carlo Tree Search](https://doi.org/10.1002/advs.202513771) ![](https://img.shields.io/badge/2025-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper_AS.pdf) \\
-Jiamu Liu, Bo Peng, **Weiyun Xu**, Ye Wei, Peng Wen
+Jiamu Liu, Bo Peng, **Weiyun Xu**<sup>*</sup>, Ye Wei<sup>*</sup>, Peng Wen<sup>*</sup>
 
 
 
@@ -21,8 +56,10 @@ Jiamu Liu, Bo Peng, **Weiyun Xu**, Ye Wei, Peng Wen
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Machine Tools & Manufacture, IF=18.8</div><img src="{{ '/images/Paper_IJMTM.webp' | relative_url }}" alt="Research illustration" width="1000" height="517" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
-[Process-driven microstructure design of 3D-Printed porous magnesium alloy scaffolds with tunable biodegradation kinetics](https://doi.org/10.1016/j.ijmachtools.2025.104362) ![](https://img.shields.io/badge/2025-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper_IJMTM.pdf) \\
-**Weiyun Xu**, Hualuo Pang, Haojing Xu, Jinge Liu, Yufeng Zheng, Peng Wen
+[Process-driven microstructure design of 3D-Printed porous magnesium alloy scaffolds with tunable biodegradation kinetics](https://doi.org/10.1016/j.ijmachtools.2025.104362) ![2026](https://img.shields.io/badge/2026-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper_IJMTM.pdf) \\
+**Weiyun Xu**<sup>†</sup>, Hualuo Pang<sup>†</sup>, Haojing Xu, Jinge Liu<sup>*</sup>, Yufeng Zheng<sup>*</sup>, Peng Wen<sup>*</sup>
+
+*International Journal of Machine Tools & Manufacture*, **215**, 104362 (2026; published online December 2025).
 
 
 
@@ -40,7 +77,7 @@ Jiamu Liu, Bo Peng, **Weiyun Xu**, Ye Wei, Peng Wen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Thin-Walled Structures, IF=6.6</div><img src="{{ '/images/Paper4.webp' | relative_url }}" alt="Research illustration" width="883" height="661" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 [A flexible design framework for lattice-based chiral mechanical metamaterials considering dynamic energy absorption](https://doi.org/10.1016/j.tws.2024.112108) ![](https://img.shields.io/badge/2024-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper4.pdf) \\
-**Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu
+**Weiyun Xu**, Chang Zhou, Hanyu Zhang, Zhao Liu, Ping Zhu<sup>*</sup>
 
 
 
@@ -57,8 +94,8 @@ Jiamu Liu, Bo Peng, **Weiyun Xu**, Ye Wei, Peng Wen
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=9.4</div><img src="{{ '/images/Paper2.webp' | relative_url }}" alt="Research illustration" width="1000" height="617" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
-[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579)  ![](https://img.shields.io/badge/2023-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper2.pdf) \\
-**Weiyun Xu**, Liwei Wang, Zhao Liu, Ping Zhu
+[General assembly rules for metamaterials with scalable twist effects](https://doi.org/10.1016/j.ijmecsci.2023.108579)  ![](https://img.shields.io/badge/2023-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper1.pdf) \\
+**Weiyun Xu**<sup>†</sup>, Liwei Wang<sup>†</sup>, Zhao Liu<sup>*</sup>, Ping Zhu<sup>*</sup>
 
 
 **Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:qjMakFHDy7sC'></span></strong>
@@ -73,8 +110,8 @@ Jiamu Liu, Bo Peng, **Weiyun Xu**, Ye Wei, Peng Wen
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Mechanical Sciences, IF=9.4</div><img src="{{ '/images/Paper3.webp' | relative_url }}" alt="Research illustration" width="1000" height="774" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
-[Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) ![](https://img.shields.io/badge/2023-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper3.pdf) \\
-**Weiyun Xu**, Lei Zhang, Boqin Zhang, Hanyu Zhang, Zhao Liu, Ping Zhu
+[Crushing behavior of contact-aided AlSi10Mg sandwich structure based on chiral mechanical metamaterials](https://doi.org/10.1016/j.ijmecsci.2023.108636) ![](https://img.shields.io/badge/2023-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper2.pdf) \\
+**Weiyun Xu**, Lei Zhang, Boqin Zhang, Hanyu Zhang<sup>*</sup>, Zhao Liu<sup>*</sup>, Ping Zhu<sup>*</sup>
 
 **Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:2osOgNQ5qMEC'></span></strong>
 
@@ -89,8 +126,10 @@ Jiamu Liu, Bo Peng, **Weiyun Xu**, Ye Wei, Peng Wen
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Communications, IF=4.5</div><img src="{{ '/images/Paper1.webp' | relative_url }}" alt="Research illustration" width="1000" height="723" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
-[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) ![](https://img.shields.io/badge/2021-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper1.pdf) \\
-**Weiyun Xu**, Zhao Liu, Liwei Wang, Ping Zhu
+[3D chiral metamaterial modular design with highly-tunable tension-twisting properties](https://doi.org/10.1016/j.mtcomm.2021.103006) ![2022](https://img.shields.io/badge/2022-red) [![Read paper (PDF)](https://img.shields.io/badge/PDF-blue)](./file/paper3.pdf) \\
+**Weiyun Xu**, Zhao Liu<sup>*</sup>, Liwei Wang, Ping Zhu<sup>*</sup>
+
+*Materials Today Communications*, **30**, 103006 (2022; published online November 2021).
 
 **Highlights** | <strong><span class='show_paper_citations' data='szGICn8AAAAJ:u-x6o8ySG0sC'></span></strong>
 
@@ -140,4 +179,3 @@ Jiamu Liu, Bo Peng, **Weiyun Xu**, Ye Wei, Peng Wen
 ##     Book and Chapter 
 - P. Zhu. **Advanced design theory and methodology**. Beijing, China: China Machine Press, 2023, ISBN: 978-7-111-71470-5. (in Chinese) **(Responsible for Chapter 3 and 7)**<br>
   ![](https://img.shields.io/badge/2023-ISBN%3A%20978--7--111--71470--5-red) [![Book cover](https://img.shields.io/badge/Picture-blue)](./images/book.png)
-

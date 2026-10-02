@@ -121,6 +121,48 @@ h1:before, .anchor:before {
     overflow-wrap: break-word;
 }
 
+.research-identity {
+    font-size: clamp(1.1rem, 2vw, 1.65rem);
+    line-height: 1.45;
+    letter-spacing: -.015em;
+}
+
+.research-affiliations {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: .6rem 0 .8rem;
+
+    img {
+        width: calc((100% - 2rem) / 3);
+        max-width: 120px;
+        height: auto;
+    }
+}
+
+.research-motto,
+.publication-note {
+    color: #626b73;
+    font-size: .85em;
+}
+
+.research-motto {
+    margin-top: 1.2em;
+    font-style: italic;
+}
+
+.current-work {
+    border-left: 3px solid #00369f;
+    padding: .15em 1em;
+    margin: 1.2em 0 1.8em;
+
+    h3 {
+        font-size: 1.1em;
+        line-height: 1.45;
+        margin-top: .6em;
+    }
+}
+
 a:focus-visible,
 button:focus-visible {
     outline: 3px solid #00369f;

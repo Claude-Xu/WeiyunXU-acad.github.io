@@ -1,14 +1,27 @@
-# <img src="{{ '/images/SJTU.webp' | relative_url }}" alt="SJTU" width="600" height="161" style="width: 6em; height: auto;" decoding="async">&emsp;<img src="{{ '/images/THU.webp' | relative_url }}" alt="THU" width="600" height="187" style="width: 6em; height: auto;" decoding="async">&emsp;<img src="{{ '/images/Illinois.webp' | relative_url }}" alt="Illinois" width="600" height="156" style="width: 6em; height: auto;" decoding="async">&emsp; Enthusiastic, Optimistic, Diligent, and Dream Big.
-[![View CV (PDF)](https://img.shields.io/badge/Click_here_to_view_my_CV-Updated_2026_Sept-red)](./file/CV.pdf)
+# Mechanical Metamaterials • Computational Inverse Design • Nonlinear Mechanics • AI for Scientific Discovery
+{: .research-identity}
 
-I am currently a postdoctoral fellow at [*MISSION*, Zhang's Research Lab](https://zhang.cee.illinois.edu/) at the University of Illinois Urbana-Champaign (UIUC). Prior to this, I collaborated with Prof. Peng Wen at [Department of Mechanical Engineering, Tsinghua University](https://me.tsinghua.edu.cn/en/) after I got my Ph.D. in Mechanical Engineering from [School of Mechanical Engineering, Shanghai Jiao Tong University](https://me.sjtu.edu.cn/en/) in June, 2024.
+<div class="research-affiliations" aria-label="Academic affiliations">
+  <img src="{{ '/images/SJTU.webp' | relative_url }}" alt="Shanghai Jiao Tong University" width="600" height="161" decoding="async">
+  <img src="{{ '/images/THU.webp' | relative_url }}" alt="Tsinghua University" width="600" height="187" decoding="async">
+  <img src="{{ '/images/Illinois.webp' | relative_url }}" alt="University of Illinois Urbana-Champaign" width="600" height="156" decoding="async">
+</div>
 
-I was supervised by [Prof. Ping Zhu](https://me.sjtu.edu.cn/en/FullTimeTeacher/zhuping.html) during my integrated MSc and PhD program. I was selected by both Tsien Hsue-shen Program (10% Pass) and Zhiyuan Honor Program (5% Pass) of SJTU, and got my bachelor's degree of Mechanical Engineering from SJTU in 2018. I demonstrated consistent academic excellence throughout my undergraduate and graduate studies, evidenced by receiving the National Scholarship (Top 1%) three times (2017, 2019, 2023), alongside the Merit Student Award (2017) and the Inspirational Individual Award (2020) from SJTU.
+[![View CV (PDF)](https://img.shields.io/badge/Click_here_to_view_my_CV-Updated_2026_Sept-red)]({{ '/file/CV.pdf' | relative_url }})
 
-My current research interests mainly include:  <a id='scholar-citation-summary' href='https://scholar.google.com/citations?user=szGICn8AAAAJ' aria-label='Total citations on Google Scholar'>Citations on Google Scholar</a>
-- **Adaptive metamaterials** with programable material-structure-property integration  
-- **Computational mechanics, optimization, and design** for metamaterials  
-- **Smart materials system** with embodied intelligence and multi-physical functionalities
+I am currently a Postdoctoral Research Associate in the [MISSION Lab](https://zhang.cee.illinois.edu/), Department of Civil and Environmental Engineering, University of Illinois Urbana-Champaign, working with Prof. Xiaojia (Shelly) Zhang. Before joining UIUC, I worked with Prof. Peng Wen in the [Department of Mechanical Engineering, Tsinghua University](https://me.tsinghua.edu.cn/en/).
 
-I aspire to advance intelligent materials and structural systems by developing technologies and ideas that benefit society, with tangible impact on quality of life, productivity, and communication. I am well prepared to pursue this goal due to (1) a strong background in mechanics and mechanical engineering, reflected in excellent academic performance and solid training in preparing research manuscripts and grant proposals; (2) substantial hands-on experience in structural design and analysis (FEniCSx, Abaqus), additive manufacturing (DIW, SLS), and materials characterization (XRD, EBSD); and (3) proven ability to work independently, communicate research effectively through presentations, and collaborate with interdisciplinary teams. <span style="color:red">Should you have any collaborative ideas on **smart materials and structures**, **advanced fabrication**, or **computational design and AI4Sci**, please feel free to contact me!</span> [![Email Weiyun Xu](https://img.shields.io/badge/email-red)](mailto:weiyunxu@illinois.edu)
+I earned my Ph.D. in Mechanical Engineering from [Shanghai Jiao Tong University](https://me.sjtu.edu.cn/en/) in 2024, under the supervision of [Prof. Ping Zhu](https://me.sjtu.edu.cn/en/FullTimeTeacher/zhuping.html). I earned a B.Eng. in Mechanical Engineering from SJTU in 2018 and was selected for the Tsien Hsue-shen Program and Zhiyuan Honor Program. My academic honors include three National Scholarships (2017, 2019, and 2023), the Merit Student Award (2017), and the Inspirational Individual Award (2020).
 
+My research focuses on: <a id="scholar-citation-summary" href="https://scholar.google.com/citations?user=szGICn8AAAAJ" aria-label="Total citations on Google Scholar">Citations on Google Scholar</a>
+
+- **Adaptive and multifunctional mechanical metamaterials**
+- **Topology optimization and data-driven inverse design**
+- **Nonlinear mechanics, programmable interactions, and collective material intelligence**
+- **AI for scientific discovery and physics-informed materials design**
+
+My research connects computational mechanics, optimization, and advanced fabrication to develop programmable materials and structures. I combine finite element modeling, data-driven design, additive manufacturing, and experimental characterization to study how material architecture and nonlinear interactions shape mechanical function.
+
+I welcome collaborations in mechanical metamaterials, nonlinear mechanics, and AI for scientific discovery. [![Email Weiyun Xu](https://img.shields.io/badge/email-red)](mailto:weiyunxu@illinois.edu)
+
+<p class="research-motto">Enthusiastic, Optimistic, Diligent, and Dream Big.</p>
