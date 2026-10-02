@@ -25,12 +25,6 @@
       <figure class="wx-carousel__slide">
         <img src="./images/Metamaterial.png" alt="Highlight 8">
       </figure>
-      <figure class="wx-carousel__slide">
-        <img src="./images/PhD2.png" alt="Highlight 9">
-      </figure>
-      <figure class="wx-carousel__slide">
-        <img src="./images/PhD1.png" alt="Highlight 10">
-      </figure>
     </div>
   </div>
   <button class="wx-carousel__btn wx-carousel__btn--prev" type="button" aria-label="Previous">&lsaquo;</button>
